@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.prometheus.jmx.JmxCollectorTest" time="4.006" tests="28" errors="0" skipped="0" failures="0">
+<testsuite name="io.prometheus.jmx.JmxCollectorTest" time="3.155" tests="28" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
@@ -61,32 +61,32 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testValueFactorEmpty" classname="io.prometheus.jmx.JmxCollectorTest" time="0.52"/>
-  <testcase name="testValueStatic" classname="io.prometheus.jmx.JmxCollectorTest" time="0.048"/>
-  <testcase name="testValueCaptureGroup" classname="io.prometheus.jmx.JmxCollectorTest" time="0.032"/>
-  <testcase name="testRulesMustHavePatternWithName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.001"/>
-  <testcase name="testValueIgnoreNonNumber" classname="io.prometheus.jmx.JmxCollectorTest" time="0.042"/>
+  <testcase name="testValueFactorEmpty" classname="io.prometheus.jmx.JmxCollectorTest" time="0.413"/>
+  <testcase name="testValueStatic" classname="io.prometheus.jmx.JmxCollectorTest" time="0.032"/>
+  <testcase name="testValueCaptureGroup" classname="io.prometheus.jmx.JmxCollectorTest" time="0.026"/>
+  <testcase name="testRulesMustHavePatternWithName" classname="io.prometheus.jmx.JmxCollectorTest" time="0"/>
+  <testcase name="testValueIgnoreNonNumber" classname="io.prometheus.jmx.JmxCollectorTest" time="0.048"/>
   <testcase name="testDelayedStartNotReady" classname="io.prometheus.jmx.JmxCollectorTest" time="0.001"/>
-  <testcase name="testWhitelist" classname="io.prometheus.jmx.JmxCollectorTest" time="0.079"/>
-  <testcase name="testHelpFromPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.038"/>
-  <testcase name="testNameAndLabelsFromPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.053"/>
-  <testcase name="stopsOnEmptyName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.035"/>
-  <testcase name="testNameAndLabelSanatized" classname="io.prometheus.jmx.JmxCollectorTest" time="0.025"/>
-  <testcase name="testBooleanValues" classname="io.prometheus.jmx.JmxCollectorTest" time="0.111"/>
-  <testcase name="testLabelsAreSet" classname="io.prometheus.jmx.JmxCollectorTest" time="0.055"/>
-  <testcase name="testSnakeCaseAttrName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.046"/>
-  <testcase name="testRulesMustHaveNameWithLabels" classname="io.prometheus.jmx.JmxCollectorTest" time="0.002"/>
-  <testcase name="testLowercaseOutputLabelNames" classname="io.prometheus.jmx.JmxCollectorTest" time="0.056"/>
-  <testcase name="defaultExportTest" classname="io.prometheus.jmx.JmxCollectorTest" time="0.25"/>
-  <testcase name="testRulesMustHaveNameWithHelp" classname="io.prometheus.jmx.JmxCollectorTest" time="0.003"/>
-  <testcase name="testDefaultExportLowercaseOutputName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.047"/>
-  <testcase name="testServletRequestPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.024"/>
-  <testcase name="testNameIsReplacedOnMatch" classname="io.prometheus.jmx.JmxCollectorTest" time="0.024"/>
-  <testcase name="testLowercaseOutputName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.031"/>
-  <testcase name="stopsOnFirstMatchingRule" classname="io.prometheus.jmx.JmxCollectorTest" time="0.099"/>
-  <testcase name="testValueEmpty" classname="io.prometheus.jmx.JmxCollectorTest" time="0.076"/>
-  <testcase name="testEmptyLabelsAreIgnored" classname="io.prometheus.jmx.JmxCollectorTest" time="0.049"/>
-  <testcase name="testValueFactor" classname="io.prometheus.jmx.JmxCollectorTest" time="0.048"/>
-  <testcase name="testBlacklist" classname="io.prometheus.jmx.JmxCollectorTest" time="0.176"/>
-  <testcase name="testDelayedStartReady" classname="io.prometheus.jmx.JmxCollectorTest" time="2.035"/>
+  <testcase name="testWhitelist" classname="io.prometheus.jmx.JmxCollectorTest" time="0.073"/>
+  <testcase name="testHelpFromPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.025"/>
+  <testcase name="testNameAndLabelsFromPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.022"/>
+  <testcase name="stopsOnEmptyName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.023"/>
+  <testcase name="testNameAndLabelSanatized" classname="io.prometheus.jmx.JmxCollectorTest" time="0.02"/>
+  <testcase name="testBooleanValues" classname="io.prometheus.jmx.JmxCollectorTest" time="0.039"/>
+  <testcase name="testLabelsAreSet" classname="io.prometheus.jmx.JmxCollectorTest" time="0.017"/>
+  <testcase name="testSnakeCaseAttrName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.028"/>
+  <testcase name="testRulesMustHaveNameWithLabels" classname="io.prometheus.jmx.JmxCollectorTest" time="0.001"/>
+  <testcase name="testLowercaseOutputLabelNames" classname="io.prometheus.jmx.JmxCollectorTest" time="0.021"/>
+  <testcase name="defaultExportTest" classname="io.prometheus.jmx.JmxCollectorTest" time="0.084"/>
+  <testcase name="testRulesMustHaveNameWithHelp" classname="io.prometheus.jmx.JmxCollectorTest" time="0"/>
+  <testcase name="testDefaultExportLowercaseOutputName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.022"/>
+  <testcase name="testServletRequestPattern" classname="io.prometheus.jmx.JmxCollectorTest" time="0.018"/>
+  <testcase name="testNameIsReplacedOnMatch" classname="io.prometheus.jmx.JmxCollectorTest" time="0.018"/>
+  <testcase name="testLowercaseOutputName" classname="io.prometheus.jmx.JmxCollectorTest" time="0.023"/>
+  <testcase name="stopsOnFirstMatchingRule" classname="io.prometheus.jmx.JmxCollectorTest" time="0.042"/>
+  <testcase name="testValueEmpty" classname="io.prometheus.jmx.JmxCollectorTest" time="0.02"/>
+  <testcase name="testEmptyLabelsAreIgnored" classname="io.prometheus.jmx.JmxCollectorTest" time="0.019"/>
+  <testcase name="testValueFactor" classname="io.prometheus.jmx.JmxCollectorTest" time="0.022"/>
+  <testcase name="testBlacklist" classname="io.prometheus.jmx.JmxCollectorTest" time="0.058"/>
+  <testcase name="testDelayedStartReady" classname="io.prometheus.jmx.JmxCollectorTest" time="2.04"/>
 </testsuite>

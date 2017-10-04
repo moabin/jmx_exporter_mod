@@ -302,18 +302,18 @@ public class JmxScraper {
             for (Map.Entry<Object, Object> entry : map.entrySet()) {
                 logger.fine("Key : " + entry.getKey() + " Value : " + entry.getValue());
 
-                logger.info("parsing linkedlist");
-                for(String key : attrKeys){
-                    logger.info(key);
-                }
+//                logger.info("parsing linkedlist");
+//                for(String key : attrKeys){
+//                    logger.info(key);
+//                }
                 
                 this.receiver.recordBean(
                         domain,
                         beanProperties,
                         attrKeys,
-                        attrName,// + "_" + entry.getKey()
+                        attrName + "_" + entry.getKey(),
                         attrType,
-                        entry.getKey().toString(),//attrDescription,
+                        attrDescription,
                         entry.getValue());
             }
             //scrape: 'org.wso2.andes{type=QueueManagementInformation, name=QueueManagementInformation}AllQueueCounts': {testQueue=58}
