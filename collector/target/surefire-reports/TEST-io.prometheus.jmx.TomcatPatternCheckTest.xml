@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.prometheus.jmx.TomcatPatternCheckTest" time="0" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="io.prometheus.jmx.TomcatPatternCheckTest" time="0.002" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Programs\jmx_exporter-master\collector"/>
+    <property name="user.dir" value="C:\Users\monyo\OneDrive - Mr Price Group Ltd\MrP\Queue Monitoring\jmx-exporter\jmx_exporter_mod\collector"/>
     <property name="java.runtime.version" value="1.8.0_144-b01"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed"/>
@@ -61,7 +61,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="validateTomcatPath" classname="io.prometheus.jmx.TomcatPatternCheckTest" time="0"/>
+  <testcase name="validateTomcatPath" classname="io.prometheus.jmx.TomcatPatternCheckTest" time="0.001"/>
   <testcase name="testWebModule" classname="io.prometheus.jmx.TomcatPatternCheckTest" time="0"/>
-  <testcase name="testSerlvetName" classname="io.prometheus.jmx.TomcatPatternCheckTest" time="0"/>
+  <testcase name="testSerlvetName" classname="io.prometheus.jmx.TomcatPatternCheckTest" time="0.001"/>
 </testsuite>

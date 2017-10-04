@@ -296,11 +296,11 @@ public class JmxScraper {
             logScrape(domain, "arrays are unsupported");
         } else if (value instanceof java.util.Map) {
             
-            logger.info("Found a map");//Key : testQueue Value : 58
+            logger.fine("Found a map");//Key : testQueue Value : 58
             Map<Object, Object> map = (Map<Object, Object>) value;
             
             for (Map.Entry<Object, Object> entry : map.entrySet()) {
-                //System.out.println("Key : " + entry.getKey() + " Value : " + entry.getValue());
+                logger.fine("Key : " + entry.getKey() + " Value : " + entry.getValue());
 
                 this.receiver.recordBean(
                         domain,
@@ -316,14 +316,14 @@ public class JmxScraper {
 //            logger.info(beanProperties.toString());
 //            logger.info(attrName);
 //            logger.info(value.toString());
-//            logScrape(domain + beanProperties + attrName, value.toString());
+            logger.fine(domain + beanProperties + attrName + "," + value.toString());
 
 //INFO: org.wso2.andes
 //INFO: {type=QueueManagementInformation, name=QueueManagementInformation}
 //INFO: AllQueueCounts
 //INFO: {testQueue=58}
 //FINE: scrape: 'org.wso2.andes{type=QueueManagementInformation, name=QueueManagementInformation}AllQueueCounts': {testQueue=58}
-            logger.info("Done with map");
+            logger.fine("Done with map");
 
         } else {//value
             logScrape(domain + beanProperties, attrType + " is not exported");
