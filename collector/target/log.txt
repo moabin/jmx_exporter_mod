@@ -1,0 +1,1444 @@
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxTime: 0
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]requestCount: 0
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateManageable: false
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]statisticsProvider: false
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.StandardWrapper
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]servletClass: org.wso2.carbon.tomcat.ext.servlet.DelegationServlet
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]countAllocated: 0
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]available: 0
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]backgroundProcessorDelay: -1
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]processingTime: 0
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadOnStartup: 1
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]singleThreadModel: false
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadTime: 4596
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateName: STARTED
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]eventProvider: false
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]minTime: 9223372036854775807
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]classLoadTime: 16
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]asyncSupported: false
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]objectName: Catalina:j2eeType=Servlet,name=bridgeservlet,WebModule=//localhost/,J2EEApplication=none,J2EEServer=none
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxInstances: 20
+Catalina{j2eeType=Servlet, name=bridgeservlet, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]errorCount: 0
+org.wso2.carbon.metrics{name=jvm.memory.heap.used}[]Value: 344070160
+org.wso2.carbon.metrics{name=jvm.gc.PS-Scavenge.time}[]Value: 403
+Catalina{type=Loader, context=/, host=localhost}[]delegate: false
+Catalina{type=Loader, context=/, host=localhost}[]searchExternalFirst: false
+Catalina{type=Loader, context=/, host=localhost}[]loaderRepositoriesString: 
+Catalina{type=Loader, context=/, host=localhost}[]modelerType: org.apache.catalina.loader.WebappLoader
+Catalina{type=Loader, context=/, host=localhost}[]repositoriesString: 
+Catalina{type=Loader, context=/, host=localhost}[]stateName: STARTED
+Catalina{type=Loader, context=/, host=localhost}[]reloadable: false
+Catalina{type=Loader, context=/, host=localhost}[]className: org.apache.catalina.loader.WebappLoader
+org.wso2.carbon.metrics{name=jvm.memory.total.max}[]Value: 1908932607
+Catalina{type=ProtocolHandler, port=9443}[]selectorTimeout: 1000
+Catalina{type=ProtocolHandler, port=9443}[]secure: true
+Catalina{type=ProtocolHandler, port=9443}[]maxSavePostSize: 4096
+Catalina{type=ProtocolHandler, port=9443}[]compressableMimeTypes: text/html,text/javascript,application/x-javascript,application/javascript,application/xml,text/css,application/xslt+xml,text/xsl,image/gif,image/jpg,image/jpeg
+Catalina{type=ProtocolHandler, port=9443}[]maxTrailerSize: 8192
+Catalina{type=ProtocolHandler, port=9443}[]upgradeAsyncWriteBufferSize: 8192
+Catalina{type=ProtocolHandler, port=9443}[]keystorePass: wso2carbon
+Catalina{type=ProtocolHandler, port=9443}[]maxThreads: 250
+Catalina{type=ProtocolHandler, port=9443}[]tcpNoDelay: true
+Catalina{type=ProtocolHandler, port=9443}[]algorithm: SunX509
+Catalina{type=ProtocolHandler, port=9443}[]maxKeepAliveRequests: 200
+Catalina{type=ProtocolHandler, port=9443}[]keepAliveTimeout: 60000
+Catalina{type=ProtocolHandler, port=9443}[]localPort: 9443
+Catalina{type=ProtocolHandler, port=9443}[]pollerThreadCount: 2
+Catalina{type=ProtocolHandler, port=9443}[]soTimeout: 60000
+Catalina{type=ProtocolHandler, port=9443}[]minSpareThreads: 50
+Catalina{type=ProtocolHandler, port=9443}[]acceptorThreadPriority: 5
+Catalina{type=ProtocolHandler, port=9443}[]backlog: 200
+Catalina{type=ProtocolHandler, port=9443}[]maxHeaderCount: 100
+Catalina{type=ProtocolHandler, port=9443}[]maxHttpHeaderSize: 8192
+Catalina{type=ProtocolHandler, port=9443}[]port: 9443
+Catalina{type=ProtocolHandler, port=9443}[]keystoreType: JKS
+Catalina{type=ProtocolHandler, port=9443}[]domain: Catalina
+Catalina{type=ProtocolHandler, port=9443}[]name: "http-nio-9443"
+Catalina{type=ProtocolHandler, port=9443}[]soLinger: -1
+Catalina{type=ProtocolHandler, port=9443}[]sslProtocol: TLS
+Catalina{type=ProtocolHandler, port=9443}[]sessionTimeout: 86400
+Catalina{type=ProtocolHandler, port=9443}[]compression: on
+Catalina{type=ProtocolHandler, port=9443}[]clientAuth: false
+Catalina{type=ProtocolHandler, port=9443}[]server: WSO2 Carbon Server
+Catalina{type=ProtocolHandler, port=9443}[]modelerType: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=ProtocolHandler, port=9443}[]connectionCount: 2
+Catalina{type=ProtocolHandler, port=9443}[]connectionUploadTimeout: 120000
+Catalina{type=ProtocolHandler, port=9443}[]aprRequired: false
+Catalina{type=ProtocolHandler, port=9443}[]threadPriority: 5
+Catalina{type=ProtocolHandler, port=9443}[]maxSwallowSize: 2097152
+Catalina{type=ProtocolHandler, port=9443}[]nameIndex: 1
+Catalina{type=ProtocolHandler, port=9443}[]disableUploadTimeout: false
+Catalina{type=ProtocolHandler, port=9443}[]sSLEnabled: true
+Catalina{type=ProtocolHandler, port=9443}[]connectionTimeout: 60000
+Catalina{type=ProtocolHandler, port=9443}[]maxExtensionSize: 8192
+Catalina{type=ProtocolHandler, port=9443}[]maxConnections: 10000
+Catalina{type=ProtocolHandler, port=9443}[]processorCache: 200
+Catalina{type=ProtocolHandler, port=9443}[]useSendfile: true
+Catalina{type=ProtocolHandler, port=9443}[]noCompressionUserAgents: gozilla, traviata
+Catalina{type=ProtocolHandler, port=9443}[]socketBuffer: 9000
+Catalina{type=ProtocolHandler, port=9443}[]pollerThreadPriority: 5
+Catalina{type=ProtocolHandler, port=9443}[]compressionMinSize: 2048
+Catalina{type=ProtocolHandler, port=9443}[]compressableMimeType: text/html,text/javascript,application/x-javascript,application/javascript,application/xml,text/css,application/xslt+xml,text/xsl,image/gif,image/jpg,image/jpeg
+Catalina{type=ProtocolHandler, port=9443}[]objectName: Catalina:type=ProtocolHandler,port=9443
+Catalina{type=ProtocolHandler, port=9443}[]keystoreFile: C:\Programs\WSO2MB~1.0\bin\../repository/resources/security/wso2carbon.jks
+org.wso2.carbon.metrics{name=jvm.memory.non-heap.committed}[]Value: 107700224
+Key : testQueue Value : 58
+java.lang{type=Compilation}[]Name: HotSpot 64-Bit Tiered Compilers
+java.lang{type=Compilation}[]TotalCompilationTime: 31805
+java.lang{type=Compilation}[]CompilationTimeMonitoringSupported: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.fanout", ExchangeType=fanout}[]Name: amq.fanout
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.fanout", ExchangeType=fanout}[]Durable: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.fanout", ExchangeType=fanout}[]TicketNo: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.fanout", ExchangeType=fanout}[]ExchangeType: fanout
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.fanout", ExchangeType=fanout}[]AutoDelete: false
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]Name: USER_ROLES_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=USER_ROLES_CACHE_MANAGER, name=USER_ROLES_CACHE}[]CacheMissPercentage: 0.0
+JMImplementation{type=MBeanServerDelegate}[]MBeanServerId: MONYO_1507098968925
+JMImplementation{type=MBeanServerDelegate}[]SpecificationName: Java Management Extensions
+JMImplementation{type=MBeanServerDelegate}[]SpecificationVersion: 1.4
+JMImplementation{type=MBeanServerDelegate}[]SpecificationVendor: Oracle Corporation
+JMImplementation{type=MBeanServerDelegate}[]ImplementationName: JMX
+JMImplementation{type=MBeanServerDelegate}[]ImplementationVersion: 1.8.0_144-b01
+JMImplementation{type=MBeanServerDelegate}[]ImplementationVendor: Oracle Corporation
+java.lang{type=ClassLoading}[]LoadedClassCount: 10379
+java.lang{type=ClassLoading}[]TotalLoadedClassCount: 10379
+java.lang{type=ClassLoading}[]UnloadedClassCount: 0
+java.lang{type=ClassLoading}[]Verbose: false
+Catalina{type=NamingResources}[]modelerType: org.apache.catalina.deploy.NamingResources
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]delegate: false
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]searchExternalFirst: false
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]contextName: /
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]modelerType: org.apache.catalina.loader.WebappClassLoader
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]stateName: NEW
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]jarPath: /WEB-INF/lib
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]antiJARLocking: false
+Catalina{type=WebappClassLoader, context=/, host=localhost}[]className: org.apache.catalina.loader.WebappClassLoader
+org.wso2.carbon.metrics{name=jvm.memory.non-heap.max}[]Value: -1
+Catalina{type=Connector, port=9443}[]maxPostSize: 2097152
+Catalina{type=Connector, port=9443}[]scheme: https
+Catalina{type=Connector, port=9443}[]acceptCount: 200
+Catalina{type=Connector, port=9443}[]secure: true
+Catalina{type=Connector, port=9443}[]threadPriority: 5
+Catalina{type=Connector, port=9443}[]maxSwallowSize: 2097152
+Catalina{type=Connector, port=9443}[]maxSavePostSize: 4096
+Catalina{type=Connector, port=9443}[]proxyPort: 0
+Catalina{type=Connector, port=9443}[]protocol: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=Connector, port=9443}[]maxParameterCount: 10000
+Catalina{type=Connector, port=9443}[]useIPVHosts: false
+Catalina{type=Connector, port=9443}[]stateName: STARTED
+Catalina{type=Connector, port=9443}[]redirectPort: 443
+Catalina{type=Connector, port=9443}[]allowTrace: false
+Catalina{type=Connector, port=9443}[]protocolHandlerClassName: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=Connector, port=9443}[]maxThreads: 250
+Catalina{type=Connector, port=9443}[]connectionTimeout: 60000
+Catalina{type=Connector, port=9443}[]tcpNoDelay: true
+Catalina{type=Connector, port=9443}[]useBodyEncodingForURI: false
+Catalina{type=Connector, port=9443}[]connectionLinger: -1
+Catalina{type=Connector, port=9443}[]processorCache: 200
+Catalina{type=Connector, port=9443}[]keepAliveTimeout: 60000
+Catalina{type=Connector, port=9443}[]maxKeepAliveRequests: 200
+Catalina{type=Connector, port=9443}[]localPort: 9443
+Catalina{type=Connector, port=9443}[]enableLookups: false
+Catalina{type=Connector, port=9443}[]URIEncoding: UTF-8
+Catalina{type=Connector, port=9443}[]minSpareThreads: 50
+Catalina{type=Connector, port=9443}[]executorName: Internal
+Catalina{type=Connector, port=9443}[]maxHeaderCount: 100
+Catalina{type=Connector, port=9443}[]port: 9443
+Catalina{type=Connector, port=9443}[]xpoweredBy: false
+org.wso2.carbon.metrics{name=jvm.memory.heap.usage}[]Value: 0.18263367420040424
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]Name: REG_UUID_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=REG_UUID_CACHE}[]CacheMissPercentage: 0.0
+java.lang{type=GarbageCollector, name=PS MarkSweep}[LastGcInfo]GcThreadCount: 4
+java.lang{type=GarbageCollector, name=PS MarkSweep}[LastGcInfo]duration: 227
+java.lang{type=GarbageCollector, name=PS MarkSweep}[LastGcInfo]endTime: 14577
+java.lang{type=GarbageCollector, name=PS MarkSweep}[LastGcInfo]id: 3
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]committed: 8257536
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]init: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]max: 1073741824
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]used: 6287416
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]committed: 115343360
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]init: 44564480
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]max: 115343360
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]used: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]committed: 1244659712
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]init: 716177408
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]max: 1431830528
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]used: 178656552
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]committed: 60383232
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]init: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]max: -1
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]used: 53889088
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]committed: 453509120
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]init: 268435456
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]max: 469237760
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]used: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]committed: 20971520
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]init: 2555904
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]max: 251658240
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]used: 20296128
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]committed: 8257536
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]init: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]max: 1073741824
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]used: 6287416
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]committed: 115343360
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]init: 44564480
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]max: 115343360
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]used: 113314088
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]committed: 863502336
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]init: 716177408
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]max: 1431830528
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]used: 137831320
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]committed: 60383232
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]init: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]max: -1
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]used: 53889088
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]committed: 453509120
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]init: 268435456
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]max: 469237760
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]used: 0
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]committed: 20971520
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]init: 2555904
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]max: 251658240
+java.lang{type=GarbageCollector, name=PS MarkSweep, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]used: 20296128
+java.lang{type=GarbageCollector, name=PS MarkSweep}[LastGcInfo]startTime: 14350
+java.lang{type=GarbageCollector, name=PS MarkSweep}[]CollectionCount: 3
+java.lang{type=GarbageCollector, name=PS MarkSweep}[]CollectionTime: 338
+java.lang{type=GarbageCollector, name=PS MarkSweep}[]Name: PS MarkSweep
+java.lang{type=GarbageCollector, name=PS MarkSweep}[]Valid: true
+org.wso2.carbon.metrics{name=jvm.class-loading.loaded.current}[]Value: 10379
+java.lang{type=Memory}[HeapMemoryUsage]committed: 1829240832
+java.lang{type=Memory}[HeapMemoryUsage]init: 1073741824
+java.lang{type=Memory}[HeapMemoryUsage]max: 1908932608
+java.lang{type=Memory}[HeapMemoryUsage]used: 348635376
+java.lang{type=Memory}[NonHeapMemoryUsage]committed: 107700224
+java.lang{type=Memory}[NonHeapMemoryUsage]init: 2555904
+java.lang{type=Memory}[NonHeapMemoryUsage]max: -1
+java.lang{type=Memory}[NonHeapMemoryUsage]used: 98045152
+java.lang{type=Memory}[]ObjectPendingFinalizationCount: 0
+java.lang{type=Memory}[]Verbose: false
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.topic", ExchangeType=topic}[]Name: amq.topic
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.topic", ExchangeType=topic}[]Durable: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.topic", ExchangeType=topic}[]TicketNo: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.topic", ExchangeType=topic}[]ExchangeType: topic
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.topic", ExchangeType=topic}[]AutoDelete: false
+org.wso2.carbon.metrics{name=jvm.os.swap.space.total.size}[]Value: 19585413120
+java.lang{type=MemoryPool, name=Metaspace}[]Name: Metaspace
+java.lang{type=MemoryPool, name=Metaspace}[]Type: NON_HEAP
+java.lang{type=MemoryPool, name=Metaspace}[PeakUsage]committed: 70606848
+java.lang{type=MemoryPool, name=Metaspace}[PeakUsage]init: 0
+java.lang{type=MemoryPool, name=Metaspace}[PeakUsage]max: -1
+java.lang{type=MemoryPool, name=Metaspace}[PeakUsage]used: 63188840
+java.lang{type=MemoryPool, name=Metaspace}[Usage]committed: 70606848
+java.lang{type=MemoryPool, name=Metaspace}[Usage]init: 0
+java.lang{type=MemoryPool, name=Metaspace}[Usage]max: -1
+java.lang{type=MemoryPool, name=Metaspace}[Usage]used: 63188840
+java.lang{type=MemoryPool, name=Metaspace}[]UsageThreshold: 0
+java.lang{type=MemoryPool, name=Metaspace}[]UsageThresholdCount: 0
+java.lang{type=MemoryPool, name=Metaspace}[]CollectionUsageThresholdSupported: false
+java.lang{type=MemoryPool, name=Metaspace}[]UsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=Metaspace}[]UsageThresholdSupported: true
+java.lang{type=MemoryPool, name=Metaspace}[]Valid: true
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]requestCount: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]maxTime: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]bytesReceived: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]modelerType: org.apache.coyote.RequestGroupInfo
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]bytesSent: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]processingTime: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9763"}[]errorCount: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]Size: 1
+WSO2_CARBON_DB,-1234{type=DataSource}[]NumIdle: 1
+WSO2_CARBON_DB,-1234{type=DataSource}[]NumActive: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]Active: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]WaitCount: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]Idle: 1
+WSO2_CARBON_DB,-1234{type=DataSource}[]Name: Tomcat Connection Pool[1-856832055]
+WSO2_CARBON_DB,-1234{type=DataSource}[]Password: Password not available as DataSource/JMX operation.
+WSO2_CARBON_DB,-1234{type=DataSource}[]Url: jdbc:h2:repository/database/WSO2CARBON_DB;DB_CLOSE_ON_EXIT=FALSE;LOCK_TIMEOUT=60000
+WSO2_CARBON_DB,-1234{type=DataSource}[]Username: wso2carbon
+WSO2_CARBON_DB,-1234{type=DataSource}[]MaxIdle: 8
+WSO2_CARBON_DB,-1234{type=DataSource}[]TestOnBorrow: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]MaxActive: 50
+WSO2_CARBON_DB,-1234{type=DataSource}[]MaxWait: 60000
+WSO2_CARBON_DB,-1234{type=DataSource}[]MinIdle: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]TestOnReturn: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]TestWhileIdle: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]JdbcInterceptors: ConnectionState;StatementFinalizer;org.wso2.carbon.ndatasource.rdbms.ConnectionRollbackOnReturnInterceptor;
+WSO2_CARBON_DB,-1234{type=DataSource}[]ValidationQuery: SELECT 1
+WSO2_CARBON_DB,-1234{type=DataSource}[]DriverClassName: org.h2.Driver
+WSO2_CARBON_DB,-1234{type=DataSource}[]RemoveAbandoned: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]RemoveAbandonedTimeout: 60
+WSO2_CARBON_DB,-1234{type=DataSource}[]DefaultTransactionIsolation: -1
+WSO2_CARBON_DB,-1234{type=DataSource}[]PoolSweeperEnabled: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]CommitOnReturn: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]ValidationInterval: 30000
+WSO2_CARBON_DB,-1234{type=DataSource}[]AbandonWhenPercentageFull: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]ValidationQueryTimeout: -1
+WSO2_CARBON_DB,-1234{type=DataSource}[]SuspectTimeout: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]AlternateUsernameAllowed: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]PropagateInterruptState: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]RollbackOnReturn: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]LogValidationErrors: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]UseDisposableConnectionFacade: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]IgnoreExceptionOnPreLoad: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]JmxEnabled: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]MaxAge: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]InitialSize: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]UseEquals: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]FairQueue: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]LogAbandoned: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]UseLock: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]PoolName: Tomcat Connection Pool[1-856832055]
+WSO2_CARBON_DB,-1234{type=DataSource}[]TestOnConnect: false
+WSO2_CARBON_DB,-1234{type=DataSource}[]AccessToUnderlyingConnectionAllowed: true
+WSO2_CARBON_DB,-1234{type=DataSource}[]NumTestsPerEvictionRun: 0
+WSO2_CARBON_DB,-1234{type=DataSource}[]TimeBetweenEvictionRunsMillis: 5000
+WSO2_CARBON_DB,-1234{type=DataSource}[]MinEvictableIdleTimeMillis: 60000
+java.lang{type=Threading}[]ThreadAllocatedMemoryEnabled: true
+java.lang{type=Threading}[]ThreadAllocatedMemorySupported: true
+java.lang{type=Threading}[]CurrentThreadCpuTime: 125000000
+java.lang{type=Threading}[]CurrentThreadUserTime: 78125000
+java.lang{type=Threading}[]ThreadCount: 88
+java.lang{type=Threading}[]TotalStartedThreadCount: 133
+java.lang{type=Threading}[]ThreadCpuTimeSupported: true
+java.lang{type=Threading}[]ThreadCpuTimeEnabled: true
+java.lang{type=Threading}[]ThreadContentionMonitoringEnabled: false
+java.lang{type=Threading}[]DaemonThreadCount: 58
+java.lang{type=Threading}[]PeakThreadCount: 88
+java.lang{type=Threading}[]CurrentThreadCpuTimeSupported: true
+java.lang{type=Threading}[]ObjectMonitorUsageSupported: true
+java.lang{type=Threading}[]SynchronizerUsageSupported: true
+java.lang{type=Threading}[]ThreadContentionMonitoringSupported: true
+org.wso2.carbon.metrics{name=jvm.threads.daemon.count}[]Value: 58
+org.wso2.carbon.metrics{name=jvm.memory.total.committed}[]Value: 1936941056
+java.lang{type=MemoryPool, name=PS Eden Space}[]Name: PS Eden Space
+java.lang{type=MemoryPool, name=PS Eden Space}[]Type: HEAP
+java.lang{type=MemoryPool, name=PS Eden Space}[CollectionUsage]committed: 453509120
+java.lang{type=MemoryPool, name=PS Eden Space}[CollectionUsage]init: 268435456
+java.lang{type=MemoryPool, name=PS Eden Space}[CollectionUsage]max: 454557696
+java.lang{type=MemoryPool, name=PS Eden Space}[CollectionUsage]used: 0
+java.lang{type=MemoryPool, name=PS Eden Space}[]CollectionUsageThreshold: 0
+java.lang{type=MemoryPool, name=PS Eden Space}[]CollectionUsageThresholdCount: 0
+java.lang{type=MemoryPool, name=PS Eden Space}[PeakUsage]committed: 512229376
+java.lang{type=MemoryPool, name=PS Eden Space}[PeakUsage]init: 268435456
+java.lang{type=MemoryPool, name=PS Eden Space}[PeakUsage]max: 626524160
+java.lang{type=MemoryPool, name=PS Eden Space}[PeakUsage]used: 512229376
+java.lang{type=MemoryPool, name=PS Eden Space}[Usage]committed: 453509120
+java.lang{type=MemoryPool, name=PS Eden Space}[Usage]init: 268435456
+java.lang{type=MemoryPool, name=PS Eden Space}[Usage]max: 454557696
+java.lang{type=MemoryPool, name=PS Eden Space}[Usage]used: 146394240
+java.lang{type=MemoryPool, name=PS Eden Space}[]CollectionUsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=PS Eden Space}[]CollectionUsageThresholdSupported: true
+java.lang{type=MemoryPool, name=PS Eden Space}[]UsageThresholdSupported: false
+java.lang{type=MemoryPool, name=PS Eden Space}[]Valid: true
+Catalina{type=Deployer, host=localhost}[]configBaseName: C:\Programs\wso2mb-3.1.0\lib\tomcat\conf\Catalina\localhost
+Catalina{type=Deployer, host=localhost}[]modelerType: org.apache.catalina.startup.HostConfig
+Catalina{type=Deployer, host=localhost}[]copyXML: false
+Catalina{type=Deployer, host=localhost}[]unpackWARs: true
+Catalina{type=Deployer, host=localhost}[]className: org.apache.catalina.startup.HostConfig
+Catalina{type=Deployer, host=localhost}[]configClass: org.apache.catalina.startup.ContextConfig
+Catalina{type=Deployer, host=localhost}[]deployXML: true
+Catalina{type=Deployer, host=localhost}[]contextClass: org.apache.catalina.core.StandardContext
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]Name: AUTHORIZATION_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=AUTHORIZATION_CACHE_MANAGER, name=AUTHORIZATION_CACHE}[]CacheMissPercentage: 0.0
+Catalina{type=Mapper, port=9763}[]modelerType: org.apache.catalina.connector.MapperListener
+Catalina{type=Mapper, port=9763}[]connectorName: Connector[org.apache.coyote.http11.Http11NioProtocol-9763]
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Size: 1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]NumIdle: 1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]NumActive: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Active: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]WaitCount: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Idle: 1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Name: Tomcat Connection Pool[2-856832055]
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Password: Password not available as DataSource/JMX operation.
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Url: jdbc:h2:repository/database/WSO2MB_DB;DB_CLOSE_ON_EXIT=FALSE;LOCK_TIMEOUT=60000
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]Username: wso2carbon
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MaxIdle: 8
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]TestOnBorrow: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MaxActive: 50
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MaxWait: 60000
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MinIdle: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]TestOnReturn: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]TestWhileIdle: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]JdbcInterceptors: ConnectionState;StatementFinalizer;org.wso2.carbon.ndatasource.rdbms.ConnectionRollbackOnReturnInterceptor;
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]ValidationQuery: SELECT 1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]DriverClassName: org.h2.Driver
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]RemoveAbandoned: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]RemoveAbandonedTimeout: 60
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]DefaultTransactionIsolation: -1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]DefaultAutoCommit: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]PoolSweeperEnabled: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]CommitOnReturn: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]ValidationInterval: 30000
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]AbandonWhenPercentageFull: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]ValidationQueryTimeout: -1
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]SuspectTimeout: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]AlternateUsernameAllowed: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]PropagateInterruptState: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]RollbackOnReturn: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]LogValidationErrors: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]UseDisposableConnectionFacade: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]IgnoreExceptionOnPreLoad: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]JmxEnabled: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MaxAge: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]InitialSize: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]UseEquals: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]FairQueue: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]LogAbandoned: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]UseLock: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]PoolName: Tomcat Connection Pool[2-856832055]
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]TestOnConnect: false
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]AccessToUnderlyingConnectionAllowed: true
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]NumTestsPerEvictionRun: 0
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]TimeBetweenEvictionRunsMillis: 5000
+WSO2_MB_STORE_DB,-1234{type=DataSource}[]MinEvictableIdleTimeMillis: 60000
+org.wso2.andes{type=ClusterManagementInformation, name=ClusterManagementInformation}[]StoreHealth: true
+org.wso2.andes{type=ClusterManagementInformation, name=ClusterManagementInformation}[]MyNodeID: NODEMONYO/10.0.75.1
+org.wso2.andes{type=ClusterManagementInformation, name=ClusterManagementInformation}[]CoordinatorNodeAddress: 
+org.wso2.andes{type=ClusterManagementInformation, name=ClusterManagementInformation}[]ClusteringEnabled: false
+java.lang{type=MemoryPool, name=PS Survivor Space}[]Name: PS Survivor Space
+java.lang{type=MemoryPool, name=PS Survivor Space}[]Type: HEAP
+java.lang{type=MemoryPool, name=PS Survivor Space}[CollectionUsage]committed: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[CollectionUsage]init: 44564480
+java.lang{type=MemoryPool, name=PS Survivor Space}[CollectionUsage]max: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[CollectionUsage]used: 24920304
+java.lang{type=MemoryPool, name=PS Survivor Space}[]CollectionUsageThreshold: 0
+java.lang{type=MemoryPool, name=PS Survivor Space}[]CollectionUsageThresholdCount: 0
+java.lang{type=MemoryPool, name=PS Survivor Space}[PeakUsage]committed: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[PeakUsage]init: 44564480
+java.lang{type=MemoryPool, name=PS Survivor Space}[PeakUsage]max: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[PeakUsage]used: 113314088
+java.lang{type=MemoryPool, name=PS Survivor Space}[Usage]committed: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[Usage]init: 44564480
+java.lang{type=MemoryPool, name=PS Survivor Space}[Usage]max: 131072000
+java.lang{type=MemoryPool, name=PS Survivor Space}[Usage]used: 24920304
+java.lang{type=MemoryPool, name=PS Survivor Space}[]CollectionUsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=PS Survivor Space}[]CollectionUsageThresholdSupported: true
+java.lang{type=MemoryPool, name=PS Survivor Space}[]UsageThresholdSupported: false
+java.lang{type=MemoryPool, name=PS Survivor Space}[]Valid: true
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]Name: testQueue
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]Owner: null
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]Capacity: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]Durable: true
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]MessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]QueueDepth: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]FlowOverfull: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]MaximumMessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]FlowResumeCapacity: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]MaximumQueueDepth: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]MaximumMessageAge: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]MaximumMessageSize: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]ActiveConsumerCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]ReceivedMessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]Exclusive: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]AutoDelete: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="testQueue"}[]ConsumerCount: 0
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]Max: 55.635009
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]Min: 0.049231
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]75thPercentile: 40.858357
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]95thPercentile: 42.651592
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]98thPercentile: 42.651592
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]99thPercentile: 42.651592
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]999thPercentile: 55.635009
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]50thPercentile: 40.858357
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]StdDev: 0.8249624247975904
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]Mean: 41.148000166068535
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]DurationUnit: milliseconds
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]Count: 21
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]FiveMinuteRate: 0.18135202591330166
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]FifteenMinuteRate: 1.2739775148140065
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]OneMinuteRate: 0.0027907302067879942
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]MeanRate: 0.023470387294877968
+org.wso2.carbon.metrics{name=org.wso2.mb.database.read}[]RateUnit: events/second
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]modelerType: org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]domain: Catalina
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]objectName: Catalina:type=Valve,host=localhost,name=CarbonStuckThreadDetectionValve
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]objectNameKeyProperties: type=Valve,host=localhost,name=CarbonStuckThreadDetectionValve
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]info: org.apache.catalina.valves.StuckThreadDetectionValve/1.0
+Catalina{type=Valve, host=localhost, name=CarbonStuckThreadDetectionValve}[]domainInternal: Catalina
+org.wso2.carbon.metrics{name=org.wso2.mb.channels.active.count}[]Value: 1
+Catalina{type=StringCache}[]accessCount: 0
+Catalina{type=StringCache}[]modelerType: org.apache.tomcat.util.buf.StringCache
+Catalina{type=StringCache}[]hitCount: 0
+Catalina{type=StringCache}[]cacheSize: 200
+Catalina{type=StringCache}[]trainThreshold: 20000
+Catalina{type=StringCache}[]charEnabled: false
+Catalina{type=StringCache}[]byteEnabled: true
+java.lang{type=MemoryManager, name=Metaspace Manager}[]Name: Metaspace Manager
+java.lang{type=MemoryManager, name=Metaspace Manager}[]Valid: true
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxTime: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]requestCount: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateManageable: false
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]statisticsProvider: false
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.StandardWrapper
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]servletClass: org.apache.catalina.servlets.DefaultServlet
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]countAllocated: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]available: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]backgroundProcessorDelay: -1
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]processingTime: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadOnStartup: 1
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]singleThreadModel: false
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadTime: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateName: STARTED
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]eventProvider: false
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]minTime: 9223372036854775807
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]classLoadTime: 0
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]asyncSupported: false
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]objectName: Catalina:j2eeType=Servlet,name=default,WebModule=//localhost/,J2EEApplication=none,J2EEServer=none
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxInstances: 20
+Catalina{j2eeType=Servlet, name=default, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]errorCount: 0
+Catalina{type=Connector, port=9763}[]maxPostSize: 2097152
+Catalina{type=Connector, port=9763}[]scheme: http
+Catalina{type=Connector, port=9763}[]acceptCount: 200
+Catalina{type=Connector, port=9763}[]secure: false
+Catalina{type=Connector, port=9763}[]threadPriority: 5
+Catalina{type=Connector, port=9763}[]maxSwallowSize: 2097152
+Catalina{type=Connector, port=9763}[]maxSavePostSize: 4096
+Catalina{type=Connector, port=9763}[]proxyPort: 0
+Catalina{type=Connector, port=9763}[]protocol: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=Connector, port=9763}[]maxParameterCount: 10000
+Catalina{type=Connector, port=9763}[]useIPVHosts: false
+Catalina{type=Connector, port=9763}[]stateName: STARTED
+Catalina{type=Connector, port=9763}[]redirectPort: 9443
+Catalina{type=Connector, port=9763}[]allowTrace: false
+Catalina{type=Connector, port=9763}[]protocolHandlerClassName: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=Connector, port=9763}[]maxThreads: 250
+Catalina{type=Connector, port=9763}[]connectionTimeout: 60000
+Catalina{type=Connector, port=9763}[]tcpNoDelay: true
+Catalina{type=Connector, port=9763}[]useBodyEncodingForURI: false
+Catalina{type=Connector, port=9763}[]connectionLinger: -1
+Catalina{type=Connector, port=9763}[]processorCache: 200
+Catalina{type=Connector, port=9763}[]keepAliveTimeout: 60000
+Catalina{type=Connector, port=9763}[]maxKeepAliveRequests: 200
+Catalina{type=Connector, port=9763}[]localPort: 9763
+Catalina{type=Connector, port=9763}[]enableLookups: false
+Catalina{type=Connector, port=9763}[]URIEncoding: UTF-8
+Catalina{type=Connector, port=9763}[]minSpareThreads: 50
+Catalina{type=Connector, port=9763}[]executorName: Internal
+Catalina{type=Connector, port=9763}[]maxHeaderCount: 100
+Catalina{type=Connector, port=9763}[]port: 9763
+Catalina{type=Connector, port=9763}[]xpoweredBy: false
+org.wso2.carbon.metrics{name=jvm.memory.non-heap.used}[]Value: 98212008
+org.wso2.carbon{type=MetricManager}[]Enabled: true
+org.wso2.carbon{type=MetricManager}[]RootLevel: INFO
+org.wso2.carbon{type=MetricManager}[]MetricsCount: 81
+Catalina{type=Cache, host=localhost, context=/}[]accessCount: 10
+Catalina{type=Cache, host=localhost, context=/}[]hitsCount: 4
+Catalina{type=Cache, host=localhost, context=/}[]modelerType: org.apache.naming.resources.ResourceCache
+Catalina{type=Cache, host=localhost, context=/}[]cacheSize: 6
+Catalina{type=Cache, host=localhost, context=/}[]desiredEntryAccessRatio: 3
+Catalina{type=Cache, host=localhost, context=/}[]spareNotFoundEntries: 500
+Catalina{type=Cache, host=localhost, context=/}[]maxAllocateIterations: 20
+Catalina{type=Cache, host=localhost, context=/}[]cacheMaxSize: 10240
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]modelerType: org.apache.catalina.valves.ErrorReportValve
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]showReport: true
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]showServerInfo: true
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]className: org.apache.catalina.valves.ErrorReportValve
+Catalina{type=Valve, host=localhost, name=ErrorReportValve}[]info: org.apache.catalina.valves.ErrorReportValve/1.0
+Catalina{j2eeType=Filter, name=CRLFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.ApplicationFilterConfig
+Catalina{j2eeType=Filter, name=CRLFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterClass: org.wso2.carbon.ui.filters.CRLFPreventionFilter
+Catalina{j2eeType=Filter, name=CRLFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterName: CRLFPreventionFilter
+Catalina{type=NamingResources, context=/, host=localhost}[]modelerType: org.apache.catalina.deploy.NamingResources
+Catalina{type=Host, host=localhost}[]modelerType: org.apache.catalina.core.StandardHost
+Catalina{type=Host, host=localhost}[]errorReportValveClass: org.apache.catalina.valves.ErrorReportValve
+Catalina{type=Host, host=localhost}[]backgroundProcessorDelay: -1
+Catalina{type=Host, host=localhost}[]contextClass: org.apache.catalina.core.StandardContext
+Catalina{type=Host, host=localhost}[]stateName: STARTED
+Catalina{type=Host, host=localhost}[]deployXML: true
+Catalina{type=Host, host=localhost}[]undeployOldVersions: false
+Catalina{type=Host, host=localhost}[]deployOnStartup: false
+Catalina{type=Host, host=localhost}[]unpackWARs: true
+Catalina{type=Host, host=localhost}[]configClass: org.apache.catalina.startup.ContextConfig
+Catalina{type=Host, host=localhost}[]startStopThreads: 1
+Catalina{type=Host, host=localhost}[]autoDeploy: false
+Catalina{type=Host, host=localhost}[]appBase: C:\Programs\WSO2MB~1.0\bin\../repository/deployment/server/webapps/
+Catalina{type=Host, host=localhost}[]copyXML: false
+Catalina{type=Host, host=localhost}[]createDirs: true
+Catalina{type=Host, host=localhost}[]name: localhost
+Catalina{type=Host, host=localhost}[]startChildren: true
+Catalina{type=Engine}[]baseDir: C:\Programs\WSO2MB~1.0\bin\..\lib\tomcat
+Catalina{type=Engine}[]modelerType: org.apache.catalina.core.StandardEngine
+Catalina{type=Engine}[]stateName: STARTED
+Catalina{type=Engine}[]defaultHost: localhost
+Catalina{type=Engine}[]name: Catalina
+Catalina{type=Engine}[]backgroundProcessorDelay: 10
+Catalina{type=Engine}[]startChildren: true
+Catalina{type=Engine}[]startStopThreads: 1
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]modelerType: org.wso2.carbon.tomcat.ext.realms.CarbonTomcatRealm
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]realmPath: /realm0
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]objectNameKeyProperties: type=Realm,realmPath=/realm0,context=/,host=localhost
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]enableSaaS: false
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]stripRealmForGss: true
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]stateName: STARTED
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]domain: Catalina
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]allRolesMode: strict
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]objectName: Catalina:type=Realm,realmPath=/realm0,context=/,host=localhost
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]domainInternal: Catalina
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]info: org.apache.catalina.realm.RealmBase/1.0
+Catalina{type=Realm, realmPath=/realm0, context=/, host=localhost}[]validate: true
+org.wso2.carbon.metrics{name=jvm.os.physical.memory.free.size}[]Value: 9522118656
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.match", ExchangeType=headers}[]Name: amq.match
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.match", ExchangeType=headers}[]Durable: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.match", ExchangeType=headers}[]TicketNo: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.match", ExchangeType=headers}[]ExchangeType: headers
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.match", ExchangeType=headers}[]AutoDelete: false
+Catalina{type=Manager, context=/, host=localhost}[]modelerType: org.apache.catalina.session.StandardManager
+Catalina{type=Manager, context=/, host=localhost}[]sessionIdLength: -1
+Catalina{type=Manager, context=/, host=localhost}[]className: org.apache.catalina.session.StandardManager
+Catalina{type=Manager, context=/, host=localhost}[]secureRandomAlgorithm: SHA1PRNG
+Catalina{type=Manager, context=/, host=localhost}[]maxInactiveInterval: 900
+Catalina{type=Manager, context=/, host=localhost}[]sessionAverageAliveTime: 0
+Catalina{type=Manager, context=/, host=localhost}[]rejectedSessions: 0
+Catalina{type=Manager, context=/, host=localhost}[]processExpiresFrequency: 6
+Catalina{type=Manager, context=/, host=localhost}[]stateName: STARTED
+Catalina{type=Manager, context=/, host=localhost}[]duplicates: 0
+Catalina{type=Manager, context=/, host=localhost}[]distributable: false
+Catalina{type=Manager, context=/, host=localhost}[]maxActiveSessions: -1
+Catalina{type=Manager, context=/, host=localhost}[]sessionMaxAliveTime: 0
+Catalina{type=Manager, context=/, host=localhost}[]processingTime: 0
+Catalina{type=Manager, context=/, host=localhost}[]pathname: 
+Catalina{type=Manager, context=/, host=localhost}[]sessionExpireRate: 0
+Catalina{type=Manager, context=/, host=localhost}[]activeSessions: 0
+Catalina{type=Manager, context=/, host=localhost}[]sessionCreateRate: 0
+Catalina{type=Manager, context=/, host=localhost}[]name: StandardManager
+Catalina{type=Manager, context=/, host=localhost}[]expiredSessions: 0
+Catalina{type=Manager, context=/, host=localhost}[]maxActive: 0
+Catalina{type=Manager, context=/, host=localhost}[]sessionCounter: 0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]StatisticsEnabled: false
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]ProductVersion: 0.11
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]ManagementApiMinorVersion: 3
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]ManagementApiMajorVersion: 2
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]BuildVersion: 90784:90849
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]PeakDataReceiptRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]DataReceiptRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]TotalDataReceived: 0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]TotalDataDelivered: 0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]PeakDataDeliveryRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]TotalMessagesDelivered: 0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]MessageReceiptRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]TotalMessagesReceived: 0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]PeakMessageReceiptRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]PeakMessageDeliveryRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]DataDeliveryRate: 0.0
+org.wso2.andes{type=ServerInformation, name=ServerInformation}[]MessageDeliveryRate: 0.0
+java.lang{type=Runtime}[]Name: 1956@MONYO
+java.lang{type=Runtime}[]ClassPath: .\lib;C:\Program Files\Java\jdk1.8.0_144\lib\tools.jar;;.\bin\org.wso2.carbon.bootstrap-4.4.3.jar;.\bin\tcpmon-1.0.jar;.\bin\tomcat-juli-7.0.59.jar;;.\lib\commons-lang-2.6.0.wso2v1.jar
+java.lang{type=Runtime}[]ManagementSpecVersion: 1.2
+java.lang{type=Runtime}[]SpecName: Java Virtual Machine Specification
+java.lang{type=Runtime}[]SpecVendor: Oracle Corporation
+java.lang{type=Runtime}[]SpecVersion: 1.8
+java.lang{type=Runtime, key=awt.toolkit}[]SystemProperties: sun.awt.windows.WToolkit
+java.lang{type=Runtime, key=java.specification.version}[]SystemProperties: 1.8
+java.lang{type=Runtime, key=sun.cpu.isalist}[]SystemProperties: amd64
+java.lang{type=Runtime, key=components.repo}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\components
+java.lang{type=Runtime, key=javax.net.ssl.trustStorePassword}[]SystemProperties: wso2carbon
+java.lang{type=Runtime, key=sun.jnu.encoding}[]SystemProperties: Cp1252
+java.lang{type=Runtime, key=org.apache.jasper.compiler.Parser.STRICT_QUOTE_ESCAPING}[]SystemProperties: false
+java.lang{type=Runtime, key=sun.arch.data.model}[]SystemProperties: 64
+java.lang{type=Runtime, key=org.terracotta.quartz.skipUpdateCheck}[]SystemProperties: true
+java.lang{type=Runtime, key=java.vendor.url}[]SystemProperties: http://java.oracle.com/
+java.lang{type=Runtime, key=sun.boot.library.path}[]SystemProperties: C:\Program Files\Java\jdk1.8.0_144\jre\bin
+java.lang{type=Runtime, key=sun.java.command}[]SystemProperties: org.wso2.carbon.bootstrap.Bootstrap RUN
+java.lang{type=Runtime, key=org.apache.jasper.compiler.disablejsr199}[]SystemProperties: true
+java.lang{type=Runtime, key=profile}[]SystemProperties: default
+java.lang{type=Runtime, key=sun.stderr.encoding}[]SystemProperties: cp437
+java.lang{type=Runtime, key=java.specification.vendor}[]SystemProperties: Oracle Corporation
+java.lang{type=Runtime, key=java.home}[]SystemProperties: C:\Program Files\Java\jdk1.8.0_144\jre
+java.lang{type=Runtime, key=mgt.transport.http.port}[]SystemProperties: 9763
+java.lang{type=Runtime, key=file.separator}[]SystemProperties: \
+java.lang{type=Runtime, key=carbon.classpath}[]SystemProperties: .\lib;C:\Program Files\Java\jdk1.8.0_144\lib\tools.jar;;.\bin\org.wso2.carbon.bootstrap-4.4.3.jar;.\bin\tcpmon-1.0.jar;.\bin\tomcat-juli-7.0.59.jar;;.\lib\commons-lang-2.6.0.wso2v1.jar
+java.lang{type=Runtime, key=sun.stdout.encoding}[]SystemProperties: cp437
+java.lang{type=Runtime, key=line.separator}[]SystemProperties: 
+
+java.lang{type=Runtime, key=java.vm.specification.vendor}[]SystemProperties: Oracle Corporation
+java.lang{type=Runtime, key=java.specification.name}[]SystemProperties: Java Platform API Specification
+java.lang{type=Runtime, key=package.definition}[]SystemProperties: sun.,java.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.,org.apache.tomcat.
+java.lang{type=Runtime, key=javax.net.ssl.trustStore}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\resources\security\client-truststore.jks
+java.lang{type=Runtime, key=sun.boot.class.path}[]SystemProperties: .\lib\endorsed\geronimo-jaxws_2.2_spec-1.0.jar;.\lib\endorsed\geronimo-jms_1.1_spec-1.1.0.wso2v1.jar;.\lib\endorsed\geronimo-jta_1.1_spec-1.1.jar;.\lib\endorsed\stax2-api-3.1.4.jar;.\lib\endorsed\tomcat-annotations-api-7.0.59.jar;.\lib\endorsed\woodstox-core-asl-4.4.1.jar;.\lib\endorsed\xalan-2.7.1.wso2v1.jar;.\lib\endorsed\xercesImpl-2.8.1.wso2v2.jar;.\lib\endorsed\xml-apis-1.3.04.wso2v2.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes;
+java.lang{type=Runtime, key=carbon.config.dir.path}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf
+java.lang{type=Runtime, key=user.script}[]SystemProperties: 
+java.lang{type=Runtime, key=java.util.logging.config.file}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\log4j.properties
+java.lang{type=Runtime, key=sun.management.compiler}[]SystemProperties: HotSpot 64-Bit Tiered Compilers
+java.lang{type=Runtime, key=com.sun.jndi.ldap.connect.pool.authentication}[]SystemProperties: simple
+java.lang{type=Runtime, key=axis2.home}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..
+java.lang{type=Runtime, key=java.runtime.version}[]SystemProperties: 1.8.0_144-b01
+java.lang{type=Runtime, key=user.name}[]SystemProperties: Monyo
+java.lang{type=Runtime, key=osgi.framework.useSystemProperties}[]SystemProperties: false
+java.lang{type=Runtime, key=file.encoding}[]SystemProperties: UTF8
+java.lang{type=Runtime, key=com.atomikos.icatch.hide_init_file_path}[]SystemProperties: true
+java.lang{type=Runtime, key=java.io.tmpdir}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\tmp
+java.lang{type=Runtime, key=wso2.carbon.xml}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\carbon.xml
+java.lang{type=Runtime, key=com.sun.jndi.ldap.connect.pool.timeout}[]SystemProperties: 3000
+java.lang{type=Runtime, key=java.version}[]SystemProperties: 1.8.0_144
+java.lang{type=Runtime, key=java.opts}[]SystemProperties: 
+java.lang{type=Runtime, key=bind.address}[]SystemProperties: 10.1.184.57
+java.lang{type=Runtime, key=java.command}[]SystemProperties: C:\Program Files\Java\jdk1.8.0_144\bin\java
+java.lang{type=Runtime, key=ANDES_HOME}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\../repository/conf/advanced/
+java.lang{type=Runtime, key=carbon.local.ip}[]SystemProperties: 10.1.184.57
+java.lang{type=Runtime, key=tenant.idle.time}[]SystemProperties: 30
+java.lang{type=Runtime, key=java.vm.specification.name}[]SystemProperties: Java Virtual Machine Specification
+java.lang{type=Runtime, key=java.awt.printerjob}[]SystemProperties: sun.awt.windows.WPrinterJob
+java.lang{type=Runtime, key=tomcat.util.scan.DefaultJarScanner.jarsToSkip}[]SystemProperties: bootstrap.jar,commons-daemon.jar,tomcat-juli.jar,annotations-api.jar,el-api.jar,jsp-api.jar,servlet-api.jar,websocket-api.jar,catalina.jar,catalina-ant.jar,catalina-ha.jar,catalina-tribes.jar,jasper.jar,jasper-el.jar,ecj-*.jar,tomcat-api.jar,tomcat-util.jar,tomcat-coyote.jar,tomcat-dbcp.jar,tomcat-jni.jar,tomcat-spdy.jar,tomcat-i18n-en.jar,tomcat-i18n-es.jar,tomcat-i18n-fr.jar,tomcat-i18n-ja.jar,tomcat-juli-adapters.jar,catalina-jmx-remote.jar,catalina-ws.jar,tomcat-jdbc.jar,tools.jar,commons-beanutils*.jar,commons-codec*.jar,commons-collections*.jar,commons-dbcp*.jar,commons-digester*.jar,commons-fileupload*.jar,commons-httpclient*.jar,commons-io*.jar,commons-lang*.jar,commons-logging*.jar,commons-math*.jar,commons-pool*.jar,jstl.jar,geronimo-spec-jaxrpc*.jar,wsdl4j*.jar,ant.jar,ant-junit*.jar,aspectj*.jar,jmx.jar,h2*.jar,hibernate*.jar,httpclient*.jar,jmx-tools.jar,jta*.jar,log4j.jar,log4j-1*.jar,mail*.jar,slf4j*.jar,xercesImpl.jar,xmlParserAPIs.jar,xml-apis.jar,junit.jar,junit-*.jar,hamcrest*.jar,org.hamcrest*.jar,ant-launcher.jar,cobertura-*.jar,asm-*.jar,dom4j-*.jar,icu4j-*.jar,jaxen-*.jar,jdom-*.jar,jetty-*.jar,oro-*.jar,servlet-api-*.jar,tagsoup-*.jar,xmlParserAPIs-*.jar,xom-*.jar
+java.lang{type=Runtime, key=sun.os.patch.level}[]SystemProperties: 
+java.lang{type=Runtime, key=metering.enabled}[]SystemProperties: false
+java.lang{type=Runtime, key=java.library.path}[]SystemProperties: C:\Program Files\Java\jdk1.8.0_144\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Docker\Docker\Resources\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Users\monyo\go;C:\Programs\Go\bin;"C:\Program Files\Java\jdk1.8.0_144\bin";;C:\Program Files\Microsoft VS Code\bin;.
+java.lang{type=Runtime, key=java.vendor}[]SystemProperties: Oracle Corporation
+java.lang{type=Runtime, key=org.apache.catalina.startup.TldConfig.jarsToSkip}[]SystemProperties: tomcat7-websocket.jar
+java.lang{type=Runtime, key=portOffset}[]SystemProperties: 0
+java.lang{type=Runtime, key=java.rmi.server.randomIDs}[]SystemProperties: true
+java.lang{type=Runtime, key=sun.io.unicode.encoding}[]SystemProperties: UnicodeLittle
+java.lang{type=Runtime, key=tomcat.util.buf.StringCache.byte.enabled}[]SystemProperties: true
+java.lang{type=Runtime, key=axis2.work.dir}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\tmp\work
+java.lang{type=Runtime, key=sun.desktop}[]SystemProperties: windows
+java.lang{type=Runtime, key=file.encoding.pkg}[]SystemProperties: sun.io
+java.lang{type=Runtime, key=wso2.server.standalone}[]SystemProperties: true
+java.lang{type=Runtime, key=java.class.path}[]SystemProperties: .\lib;C:\Program Files\Java\jdk1.8.0_144\lib\tools.jar;;.\bin\org.wso2.carbon.bootstrap-4.4.3.jar;.\bin\tcpmon-1.0.jar;.\bin\tomcat-juli-7.0.59.jar;;.\lib\commons-lang-2.6.0.wso2v1.jar
+java.lang{type=Runtime, key=java.vm.vendor}[]SystemProperties: Oracle Corporation
+java.lang{type=Runtime, key=user.variant}[]SystemProperties: 
+java.lang{type=Runtime, key=user.timezone}[]SystemProperties: Africa/Harare
+java.lang{type=Runtime, key=os.name}[]SystemProperties: Windows 10
+java.lang{type=Runtime, key=java.vm.specification.version}[]SystemProperties: 1.8
+java.lang{type=Runtime, key=sun.java.launcher}[]SystemProperties: SUN_STANDARD
+java.lang{type=Runtime, key=user.country}[]SystemProperties: US
+java.lang{type=Runtime, key=com.sun.management.jmxremote}[]SystemProperties: 
+java.lang{type=Runtime, key=sun.cpu.endian}[]SystemProperties: little
+java.lang{type=Runtime, key=user.home}[]SystemProperties: C:\Users\monyo
+java.lang{type=Runtime, key=user.language}[]SystemProperties: en
+java.lang{type=Runtime, key=carbon.registry.root}[]SystemProperties: /
+java.lang{type=Runtime, key=com.atomikos.icatch.file}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\lib\transactions.properties
+java.lang{type=Runtime, key=log4j.defaultInitOverride}[]SystemProperties: true
+java.lang{type=Runtime, key=java.awt.graphicsenv}[]SystemProperties: sun.awt.Win32GraphicsEnvironment
+java.lang{type=Runtime, key=org.apache.jasper.runtime.BodyContentImpl.LIMIT_BUFFER}[]SystemProperties: true
+java.lang{type=Runtime, key=wso2.user.mgt.xml}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\user-mgt.xml
+java.lang{type=Runtime, key=package.access}[]SystemProperties: sun.,org.apache.catalina.,org.apache.coyote.,org.apache.jasper.,org.apache.naming.resources.,org.apache.tomcat.
+java.lang{type=Runtime, key=mgt.transport.https.port}[]SystemProperties: 9443
+java.lang{type=Runtime, key=andesConfig}[]SystemProperties: broker.xml
+java.lang{type=Runtime, key=server.loader}[]SystemProperties: 
+java.lang{type=Runtime, key=wso2.registry.xml}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\registry.xml
+java.lang{type=Runtime, key=path.separator}[]SystemProperties: ;
+java.lang{type=Runtime, key=wso2.transports.xml}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\mgt-transports.xml
+java.lang{type=Runtime, key=common.loader}[]SystemProperties: ${catalina.base}/lib,${catalina.base}/lib/*.jar,${catalina.home}/lib,${catalina.home}/lib/*.jar
+java.lang{type=Runtime, key=os.version}[]SystemProperties: 10.0
+java.lang{type=Runtime, key=java.endorsed.dirs}[]SystemProperties: .\lib\endorsed;C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_144\lib\endorsed
+java.lang{type=Runtime, key=carbon.logs.path}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\logs
+java.lang{type=Runtime, key=java.runtime.name}[]SystemProperties: Java(TM) SE Runtime Environment
+java.lang{type=Runtime, key=sun.nio.ch.bugLevel}[]SystemProperties: 
+java.lang{type=Runtime, key=java.vm.name}[]SystemProperties: Java HotSpot(TM) 64-Bit Server VM
+java.lang{type=Runtime, key=org.apache.catalina.startup.ContextConfig.jarsToSkip}[]SystemProperties: 
+java.lang{type=Runtime, key=wso2carbon.start.time}[]SystemProperties: 1507098969350
+java.lang{type=Runtime, key=java.security.auth.login.config}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf\security\jaas.conf
+java.lang{type=Runtime, key=java.vendor.url.bug}[]SystemProperties: http://bugreport.sun.com/bugreport/
+java.lang{type=Runtime, key=javax.net.ssl.trustStoreType}[]SystemProperties: JKS
+java.lang{type=Runtime, key=carbon.instance.name}[]SystemProperties: 1507098969350_MONYO_10.0.75.1_185578c4-d544-425d-8171-c7429f77ffb0
+java.lang{type=Runtime, key=user.dir}[]SystemProperties: C:\Programs\WSO2MB~1.0
+java.lang{type=Runtime, key=os.arch}[]SystemProperties: amd64
+java.lang{type=Runtime, key=conf.location}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\repository\conf
+java.lang{type=Runtime, key=catalina.base}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..\lib\tomcat
+java.lang{type=Runtime, key=shared.loader}[]SystemProperties: 
+java.lang{type=Runtime, key=localTransportModeEnabled}[]SystemProperties: true
+java.lang{type=Runtime, key=carbon.home}[]SystemProperties: C:\Programs\WSO2MB~1.0\bin\..
+java.lang{type=Runtime, key=java.vm.info}[]SystemProperties: mixed mode
+java.lang{type=Runtime, key=java.vm.version}[]SystemProperties: 25.144-b01
+java.lang{type=Runtime, key=java.ext.dirs}[]SystemProperties: C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\windows\Sun\Java\lib\ext
+java.lang{type=Runtime, key=java.class.version}[]SystemProperties: 52.0
+java.lang{type=Runtime}[]StartTime: 1507098968878
+java.lang{type=Runtime}[]BootClassPath: .\lib\endorsed\geronimo-jaxws_2.2_spec-1.0.jar;.\lib\endorsed\geronimo-jms_1.1_spec-1.1.0.wso2v1.jar;.\lib\endorsed\geronimo-jta_1.1_spec-1.1.jar;.\lib\endorsed\stax2-api-3.1.4.jar;.\lib\endorsed\tomcat-annotations-api-7.0.59.jar;.\lib\endorsed\woodstox-core-asl-4.4.1.jar;.\lib\endorsed\xalan-2.7.1.wso2v1.jar;.\lib\endorsed\xercesImpl-2.8.1.wso2v2.jar;.\lib\endorsed\xml-apis-1.3.04.wso2v2.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes;
+java.lang{type=Runtime}[]LibraryPath: C:\Program Files\Java\jdk1.8.0_144\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Docker\Docker\Resources\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Users\monyo\go;C:\Programs\Go\bin;"C:\Program Files\Java\jdk1.8.0_144\bin";;C:\Program Files\Microsoft VS Code\bin;.
+java.lang{type=Runtime}[]Uptime: 909364
+java.lang{type=Runtime}[]VmName: Java HotSpot(TM) 64-Bit Server VM
+java.lang{type=Runtime}[]VmVendor: Oracle Corporation
+java.lang{type=Runtime}[]VmVersion: 25.144-b01
+java.lang{type=Runtime}[]BootClassPathSupported: true
+java.lang{type=GarbageCollector, name=PS Scavenge}[LastGcInfo]GcThreadCount: 4
+java.lang{type=GarbageCollector, name=PS Scavenge}[LastGcInfo]duration: 29
+java.lang{type=GarbageCollector, name=PS Scavenge}[LastGcInfo]endTime: 193174
+java.lang{type=GarbageCollector, name=PS Scavenge}[LastGcInfo]id: 11
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]committed: 9175040
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]init: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]max: 1073741824
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageAfterGc]used: 7207256
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]committed: 131072000
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]init: 44564480
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]max: 131072000
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageAfterGc]used: 24920304
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]committed: 1244659712
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]init: 716177408
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]max: 1431830528
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageAfterGc]used: 178664744
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]committed: 69951488
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]init: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]max: -1
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageAfterGc]used: 62544368
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]committed: 453509120
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]init: 268435456
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]max: 454557696
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageAfterGc]used: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]committed: 25821184
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]init: 2555904
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]max: 251658240
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageAfterGc]used: 25600320
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]committed: 9175040
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]init: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]max: 1073741824
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Compressed Class Space}[LastGcInfo, memoryUsageBeforeGc]used: 7207256
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]committed: 115343360
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]init: 44564480
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]max: 115343360
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Survivor Space}[LastGcInfo, memoryUsageBeforeGc]used: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]committed: 1244659712
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]init: 716177408
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]max: 1431830528
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Old Gen}[LastGcInfo, memoryUsageBeforeGc]used: 178656552
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]committed: 69951488
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]init: 0
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]max: -1
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Metaspace}[LastGcInfo, memoryUsageBeforeGc]used: 62544368
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]committed: 453509120
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]init: 268435456
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]max: 469237760
+java.lang{type=GarbageCollector, name=PS Scavenge, key=PS Eden Space}[LastGcInfo, memoryUsageBeforeGc]used: 453509120
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]committed: 25821184
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]init: 2555904
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]max: 251658240
+java.lang{type=GarbageCollector, name=PS Scavenge, key=Code Cache}[LastGcInfo, memoryUsageBeforeGc]used: 25600320
+java.lang{type=GarbageCollector, name=PS Scavenge}[LastGcInfo]startTime: 193145
+java.lang{type=GarbageCollector, name=PS Scavenge}[]CollectionCount: 11
+java.lang{type=GarbageCollector, name=PS Scavenge}[]CollectionTime: 403
+java.lang{type=GarbageCollector, name=PS Scavenge}[]Name: PS Scavenge
+java.lang{type=GarbageCollector, name=PS Scavenge}[]Valid: true
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]Name: PERMISSION_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=PERMISSION_CACHE_MANAGER, name=PERMISSION_CACHE}[]CacheMissPercentage: 0.0
+java.nio{type=BufferPool, name=mapped}[]Name: mapped
+java.nio{type=BufferPool, name=mapped}[]MemoryUsed: 67108864
+java.nio{type=BufferPool, name=mapped}[]TotalCapacity: 67108864
+java.nio{type=BufferPool, name=mapped}[]Count: 1
+org.wso2.carbon.metrics{name=org.wso2.mb.topic.subscribers.count}[]Value: 0
+org.wso2.carbon.metrics{name=jvm.os.physical.memory.total.size}[]Value: 17035276288
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]rotatable: true
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]modelerType: org.apache.catalina.valves.AccessLogValve
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]checkExists: false
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]prefix: http_access_
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]pattern: %h %l %u %t "%r" %s %b "%{Referer}i" "%{User-Agent}i"
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]className: org.apache.catalina.valves.AccessLogValve
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]locale: en_US
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]suffix: .log
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]directory: C:\Programs\WSO2MB~1.0\bin\../repository/logs
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]enabled: true
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]buffered: true
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]renameOnRotate: false
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]fileDateFormat: yyyy-MM-dd
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]resolveHosts: false
+Catalina{type=Valve, host=localhost, name=AccessLogValve}[]info: org.apache.catalina.valves.AccessLogValve/2.2
+java.lang{type=MemoryPool, name=Compressed Class Space}[]Name: Compressed Class Space
+java.lang{type=MemoryPool, name=Compressed Class Space}[]Type: NON_HEAP
+java.lang{type=MemoryPool, name=Compressed Class Space}[PeakUsage]committed: 9306112
+java.lang{type=MemoryPool, name=Compressed Class Space}[PeakUsage]init: 0
+java.lang{type=MemoryPool, name=Compressed Class Space}[PeakUsage]max: 1073741824
+java.lang{type=MemoryPool, name=Compressed Class Space}[PeakUsage]used: 7250256
+java.lang{type=MemoryPool, name=Compressed Class Space}[Usage]committed: 9306112
+java.lang{type=MemoryPool, name=Compressed Class Space}[Usage]init: 0
+java.lang{type=MemoryPool, name=Compressed Class Space}[Usage]max: 1073741824
+java.lang{type=MemoryPool, name=Compressed Class Space}[Usage]used: 7250256
+java.lang{type=MemoryPool, name=Compressed Class Space}[]UsageThreshold: 0
+java.lang{type=MemoryPool, name=Compressed Class Space}[]UsageThresholdCount: 0
+java.lang{type=MemoryPool, name=Compressed Class Space}[]CollectionUsageThresholdSupported: false
+java.lang{type=MemoryPool, name=Compressed Class Space}[]UsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=Compressed Class Space}[]UsageThresholdSupported: true
+java.lang{type=MemoryPool, name=Compressed Class Space}[]Valid: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]currentThreadsBusy: 0
+Catalina{type=ThreadPool, name="http-nio-9763"}[]selectorTimeout: 1000
+Catalina{type=ThreadPool, name="http-nio-9763"}[]paused: false
+Catalina{type=ThreadPool, name="http-nio-9763"}[]useCometTimeout: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]currentThreadCount: 0
+Catalina{type=ThreadPool, name="http-nio-9763"}[]usePolling: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]maxThreads: 250
+Catalina{type=ThreadPool, name="http-nio-9763"}[]tcpNoDelay: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]algorithm: SunX509
+Catalina{type=ThreadPool, name="http-nio-9763"}[]maxKeepAliveRequests: 200
+Catalina{type=ThreadPool, name="http-nio-9763"}[]keepAliveTimeout: 60000
+Catalina{type=ThreadPool, name="http-nio-9763"}[]localPort: 9763
+Catalina{type=ThreadPool, name="http-nio-9763"}[]pollerThreadCount: 2
+Catalina{type=ThreadPool, name="http-nio-9763"}[]acceptorThreadCount: 2
+Catalina{type=ThreadPool, name="http-nio-9763"}[]soTimeout: 60000
+Catalina{type=ThreadPool, name="http-nio-9763"}[]daemon: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]minSpareThreads: 50
+Catalina{type=ThreadPool, name="http-nio-9763"}[]acceptorThreadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9763"}[]backlog: 200
+Catalina{type=ThreadPool, name="http-nio-9763"}[]maxHeaderCount: 100
+Catalina{type=ThreadPool, name="http-nio-9763"}[]port: 9763
+Catalina{type=ThreadPool, name="http-nio-9763"}[]keystoreType: JKS
+Catalina{type=ThreadPool, name="http-nio-9763"}[]name: http-nio-9763
+Catalina{type=ThreadPool, name="http-nio-9763"}[]soLinger: -1
+Catalina{type=ThreadPool, name="http-nio-9763"}[]sslProtocol: TLS
+Catalina{type=ThreadPool, name="http-nio-9763"}[]sessionTimeout: 86400
+Catalina{type=ThreadPool, name="http-nio-9763"}[]useComet: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]clientAuth: false
+Catalina{type=ThreadPool, name="http-nio-9763"}[]modelerType: org.apache.tomcat.util.net.NioEndpoint
+Catalina{type=ThreadPool, name="http-nio-9763"}[]connectionCount: 2
+Catalina{type=ThreadPool, name="http-nio-9763"}[]threadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9763"}[]executorTerminationTimeoutMillis: 5000
+Catalina{type=ThreadPool, name="http-nio-9763"}[]running: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]sSLEnabled: false
+Catalina{type=ThreadPool, name="http-nio-9763"}[]maxConnections: 10000
+Catalina{type=ThreadPool, name="http-nio-9763"}[]keepAliveCount: 0
+Catalina{type=ThreadPool, name="http-nio-9763"}[]deferAccept: false
+Catalina{type=ThreadPool, name="http-nio-9763"}[]useSendfile: true
+Catalina{type=ThreadPool, name="http-nio-9763"}[]oomParachute: 1048576
+Catalina{type=ThreadPool, name="http-nio-9763"}[]bindOnInit: false
+Catalina{type=ThreadPool, name="http-nio-9763"}[]pollerThreadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9763"}[]keystoreFile: C:\Users\monyo/.keystore
+org.wso2.carbon.metrics{name=org.wso2.mb.queue.subscribers.count}[]Value: 0
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]Max: 0.521847
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]Min: 0.057026
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]75thPercentile: 0.38277
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]95thPercentile: 0.521847
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]98thPercentile: 0.521847
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]99thPercentile: 0.521847
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]999thPercentile: 0.521847
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]50thPercentile: 0.30400099999999997
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]StdDev: 0.1557382824324193
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]Mean: 0.271057
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]DurationUnit: milliseconds
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]Count: 10
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]FiveMinuteRate: 0.10294921340340149
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]FifteenMinuteRate: 0.743979566930743
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]OneMinuteRate: 7.227617832891986E-7
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]MeanRate: 0.011164951282683891
+org.wso2.carbon.metrics{name=org.wso2.mb.database.write}[]RateUnit: events/second
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxTime: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]requestCount: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateManageable: false
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]statisticsProvider: false
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.StandardWrapper
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]servletClass: org.apache.jasper.servlet.JspServlet
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]countAllocated: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]available: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]backgroundProcessorDelay: -1
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]processingTime: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadOnStartup: 3
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]singleThreadModel: false
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]loadTime: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateName: STARTED
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]eventProvider: false
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]minTime: 9223372036854775807
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]classLoadTime: 0
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]asyncSupported: false
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]objectName: Catalina:j2eeType=Servlet,name=jsp,WebModule=//localhost/,J2EEApplication=none,J2EEServer=none
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxInstances: 20
+Catalina{j2eeType=Servlet, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]errorCount: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.direct", ExchangeType=direct}[]Name: amq.direct
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.direct", ExchangeType=direct}[]Durable: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.direct", ExchangeType=direct}[]TicketNo: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.direct", ExchangeType=direct}[]ExchangeType: direct
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="amq.direct", ExchangeType=direct}[]AutoDelete: false
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]Name: $__local__$.REG_LOCAL_CACHE_BACKED_ID
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_LOCAL_CACHE_BACKED_ID}[]CacheMissPercentage: 0.0
+Catalina{type=ProtocolHandler, port=9763}[]selectorTimeout: 1000
+Catalina{type=ProtocolHandler, port=9763}[]secure: false
+Catalina{type=ProtocolHandler, port=9763}[]maxSavePostSize: 4096
+Catalina{type=ProtocolHandler, port=9763}[]compressableMimeTypes: text/html,text/javascript,application/x-javascript,application/javascript,application/xml,text/css,application/xslt+xml,text/xsl,image/gif,image/jpg,image/jpeg
+Catalina{type=ProtocolHandler, port=9763}[]maxTrailerSize: 8192
+Catalina{type=ProtocolHandler, port=9763}[]upgradeAsyncWriteBufferSize: 8192
+Catalina{type=ProtocolHandler, port=9763}[]maxThreads: 250
+Catalina{type=ProtocolHandler, port=9763}[]tcpNoDelay: true
+Catalina{type=ProtocolHandler, port=9763}[]algorithm: SunX509
+Catalina{type=ProtocolHandler, port=9763}[]maxKeepAliveRequests: 200
+Catalina{type=ProtocolHandler, port=9763}[]keepAliveTimeout: 60000
+Catalina{type=ProtocolHandler, port=9763}[]localPort: 9763
+Catalina{type=ProtocolHandler, port=9763}[]pollerThreadCount: 2
+Catalina{type=ProtocolHandler, port=9763}[]soTimeout: 60000
+Catalina{type=ProtocolHandler, port=9763}[]minSpareThreads: 50
+Catalina{type=ProtocolHandler, port=9763}[]acceptorThreadPriority: 5
+Catalina{type=ProtocolHandler, port=9763}[]backlog: 200
+Catalina{type=ProtocolHandler, port=9763}[]maxHeaderCount: 100
+Catalina{type=ProtocolHandler, port=9763}[]maxHttpHeaderSize: 8192
+Catalina{type=ProtocolHandler, port=9763}[]port: 9763
+Catalina{type=ProtocolHandler, port=9763}[]keystoreType: JKS
+Catalina{type=ProtocolHandler, port=9763}[]domain: Catalina
+Catalina{type=ProtocolHandler, port=9763}[]name: "http-nio-9763"
+Catalina{type=ProtocolHandler, port=9763}[]soLinger: -1
+Catalina{type=ProtocolHandler, port=9763}[]sslProtocol: TLS
+Catalina{type=ProtocolHandler, port=9763}[]sessionTimeout: 86400
+Catalina{type=ProtocolHandler, port=9763}[]compression: on
+Catalina{type=ProtocolHandler, port=9763}[]clientAuth: false
+Catalina{type=ProtocolHandler, port=9763}[]server: WSO2 Carbon Server
+Catalina{type=ProtocolHandler, port=9763}[]modelerType: org.apache.coyote.http11.Http11NioProtocol
+Catalina{type=ProtocolHandler, port=9763}[]connectionCount: 2
+Catalina{type=ProtocolHandler, port=9763}[]connectionUploadTimeout: 120000
+Catalina{type=ProtocolHandler, port=9763}[]aprRequired: false
+Catalina{type=ProtocolHandler, port=9763}[]threadPriority: 5
+Catalina{type=ProtocolHandler, port=9763}[]maxSwallowSize: 2097152
+Catalina{type=ProtocolHandler, port=9763}[]nameIndex: 2
+Catalina{type=ProtocolHandler, port=9763}[]disableUploadTimeout: false
+Catalina{type=ProtocolHandler, port=9763}[]sSLEnabled: false
+Catalina{type=ProtocolHandler, port=9763}[]connectionTimeout: 60000
+Catalina{type=ProtocolHandler, port=9763}[]maxExtensionSize: 8192
+Catalina{type=ProtocolHandler, port=9763}[]maxConnections: 10000
+Catalina{type=ProtocolHandler, port=9763}[]processorCache: 200
+Catalina{type=ProtocolHandler, port=9763}[]useSendfile: true
+Catalina{type=ProtocolHandler, port=9763}[]noCompressionUserAgents: gozilla, traviata
+Catalina{type=ProtocolHandler, port=9763}[]socketBuffer: 9000
+Catalina{type=ProtocolHandler, port=9763}[]pollerThreadPriority: 5
+Catalina{type=ProtocolHandler, port=9763}[]compressionMinSize: 2048
+Catalina{type=ProtocolHandler, port=9763}[]compressableMimeType: text/html,text/javascript,application/x-javascript,application/javascript,application/xml,text/css,application/xslt+xml,text/xsl,image/gif,image/jpg,image/jpeg
+Catalina{type=ProtocolHandler, port=9763}[]objectName: Catalina:type=ProtocolHandler,port=9763
+Catalina{type=ProtocolHandler, port=9763}[]keystoreFile: C:\Users\monyo/.keystore
+Catalina{type=JspMonitor, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.jasper.servlet.JspServlet
+Catalina{type=JspMonitor, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]jspCount: 0
+Catalina{type=JspMonitor, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]jspReloadCount: 0
+Catalina{type=JspMonitor, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]jspUnloadCount: 0
+Catalina{type=JspMonitor, name=jsp, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]jspQueueLength: -1
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]Name: Claim.Cache
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=Claim.Cache.Manager, name=Claim.Cache}[]CacheMissPercentage: 0.0
+org.wso2.carbon.metrics{name=jvm.os.cpu.load.process}[]Value: 0.040891167742253993
+org.wso2.carbon.metrics{name=jvm.memory.total.init}[]Value: 1076297728
+java.lang{type=MemoryManager, name=CodeCacheManager}[]Name: CodeCacheManager
+java.lang{type=MemoryManager, name=CodeCacheManager}[]Valid: true
+Catalina{type=Valve, host=localhost, name=StandardHostValve}[]modelerType: org.apache.catalina.core.StandardHostValve
+Catalina{type=Valve, host=localhost, name=StandardHostValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=StandardHostValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=StandardHostValve}[]className: org.apache.catalina.core.StandardHostValve
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]modelerType: org.wso2.carbon.tomcat.ext.valves.CompositeValve
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]domain: Catalina
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]objectName: Catalina:type=Valve,host=localhost,name=CompositeValve
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]objectNameKeyProperties: type=Valve,host=localhost,name=CompositeValve
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]info: org.apache.catalina.core.ValveBase/1.0
+Catalina{type=Valve, host=localhost, name=CompositeValve}[]domainInternal: Catalina
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="<<default>>", ExchangeType=direct}[]Name: <<default>>
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="<<default>>", ExchangeType=direct}[]Durable: true
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="<<default>>", ExchangeType=direct}[]TicketNo: 0
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="<<default>>", ExchangeType=direct}[]ExchangeType: direct
+org.wso2.andes{type=VirtualHost.Exchange, VirtualHost="carbon", name="<<default>>", ExchangeType=direct}[]AutoDelete: false
+org.wso2.carbon.metrics{name=jvm.gc.PS-MarkSweep.time}[]Value: 338
+org.wso2.carbon.metrics{name=jvm.threads.count}[]Value: 88
+org.wso2.carbon.metrics{name=org.wso2.mb.inbound.disruptor.ack.count}[]Value: 0
+java.nio{type=BufferPool, name=direct}[]Name: direct
+java.nio{type=BufferPool, name=direct}[]MemoryUsed: 33
+java.nio{type=BufferPool, name=direct}[]TotalCapacity: 32
+java.nio{type=BufferPool, name=direct}[]Count: 3
+org.wso2.carbon.metrics{name=jvm.memory.non-heap.init}[]Value: 2555904
+Catalina{type=Mapper, port=9443}[]modelerType: org.apache.catalina.connector.MapperListener
+Catalina{type=Mapper, port=9443}[]connectorName: Connector[org.apache.coyote.http11.Http11NioProtocol-9443]
+org.wso2.carbon.metrics{name=jvm.memory.heap.max}[]Value: 1908932608
+Catalina{type=MBeanFactory}[]modelerType: org.apache.catalina.mbeans.MBeanFactory
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]antiResourceLocking: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]encodedPath: 
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]maxTime: 0
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]paused: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]useNaming: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]logEffectiveWebXml: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]path: 
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]cacheObjectMaxSize: 512
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateName: STARTED
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]clearReferencesStopTimerThreads: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]useHttpOnly: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]baseName: ROOT
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]errorCount: 0
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]configured: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]unloadDelay: 2000
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]cacheTTL: 5000
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]ignoreAnnotations: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]processingTime: 0
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]clearReferencesStopThreads: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]saveConfig: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]privileged: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]xmlValidation: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]name: /
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]deploymentDescriptor: <?xml version="1.0" encoding="UTF-8"?><!-- ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved. ~ ~ WSO2 Inc. licenses this file to you under the Apache License, ~ Version 2.0 (the "License"); you may not use this file except ~ in compliance with the License. ~ You may obtain a copy of the License at ~ ~    http://www.apache.org/licenses/LICENSE-2.0 ~ ~ Unless required by applicable law or agreed to in writing, ~ software distributed under the License is distributed on an ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY ~ KIND, either express or implied.  See the License for the ~ specific language governing permissions and limitations ~ under the License. --><!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.2//EN"        "http://java.sun.com/dtd/web-app_2_3.dtd"><web-app id="WebApp">    <servlet id="bridge">        <servlet-name>bridgeservlet</servlet-name>        <display-name>Carbon Bridge Servlet</display-name>        <description>Carbon Bridge Servlet</description>        <servlet-class>org.wso2.carbon.tomcat.ext.servlet.DelegationServlet</servlet-class>        <load-on-startup>1</load-on-startup>    </servlet>    <servlet-mapping>        <servlet-name>bridgeservlet</servlet-name>        <url-pattern>/*</url-pattern>    </servlet-mapping>    <!--       This is required if your application bundles expose JSPs.     -->    <servlet-mapping>        <servlet-name>bridgeservlet</servlet-name>        <url-pattern>*.jsp</url-pattern>    </servlet-mapping>    <!--This is for performing the character encoding in the JSPs. -->    <filter>        <filter-name>CharsetFilter</filter-name>        <filter-class>org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter</filter-class>        <init-param>            <param-name>requestEncoding</param-name>            <param-value>UTF-8</param-value>        </init-param>    </filter>    <!-- This filter sanitizes CR(\r) and LF(\n) characters in response headers centrally -->    <!-- and avoids response splitting vulnerability  -->    <filter>        <filter-name>CRLFPreventionFilter</filter-name>        <filter-class>org.wso2.carbon.ui.filters.CRLFPreventionFilter</filter-class>    </filter>    <!--This filter prevents CSRF vulnerabilities in POST requests with CSRF Token validation-->    <filter>        <filter-name>CSRFPreventionFilter</filter-name>        <filter-class>org.wso2.carbon.ui.filters.CSRFPreventionFilter</filter-class>    </filter>    <filter-mapping>        <filter-name>CharsetFilter</filter-name>        <url-pattern>/*</url-pattern>    </filter-mapping>    <!-- The mapping for the CRLFPreventionFilter -->    <filter-mapping>        <filter-name>CRLFPreventionFilter</filter-name>        <url-pattern>/*</url-pattern>    </filter-mapping>    <!--Filter mapping for the CSRFPreventionFilter-->    <filter-mapping>        <filter-name>CSRFPreventionFilter</filter-name>        <url-pattern>/*</url-pattern>    </filter-mapping>    <session-config>        <session-timeout>15</session-timeout>        <cookie-config>            <secure>true</secure>        </cookie-config>    </session-config></web-app>
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]sessionTimeout: 15
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]unpackWAR: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]clearReferencesStatic: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]renewThreadsWhenStoppingContext: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]stateManageable: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]statisticsProvider: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]docBase: C:/Programs/wso2mb-3.1.0/repository/conf/tomcat/carbon
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.StandardContext
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]reloadable: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]webappVersion: 
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]cacheMaxSize: 10240
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]cookies: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]delegate: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]minTime: 9223372036854775807
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]swallowOutput: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]startTime: 1507098984633
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]tldValidation: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]override: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]workDir: work\Catalina\localhost\_
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]requestCount: 0
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]distributable: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]cachingAllowed: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]tldScanTime: 164
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]startupTime: 22
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]xmlNamespaceAware: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]tldNamespaceAware: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]eventProvider: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]antiJARLocking: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]crossContext: false
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]objectName: Catalina:j2eeType=WebModule,name=//localhost/,J2EEApplication=none,J2EEServer=none
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]allowLinking: true
+Catalina{j2eeType=WebModule, name=//localhost/, J2EEApplication=none, J2EEServer=none}[]publicId: -//Sun Microsystems, Inc.//DTD Web Application 2.2//EN
+java.lang{type=MemoryPool, name=PS Old Gen}[]Name: PS Old Gen
+java.lang{type=MemoryPool, name=PS Old Gen}[]Type: HEAP
+java.lang{type=MemoryPool, name=PS Old Gen}[CollectionUsage]committed: 1244659712
+java.lang{type=MemoryPool, name=PS Old Gen}[CollectionUsage]init: 716177408
+java.lang{type=MemoryPool, name=PS Old Gen}[CollectionUsage]max: 1431830528
+java.lang{type=MemoryPool, name=PS Old Gen}[CollectionUsage]used: 178656552
+java.lang{type=MemoryPool, name=PS Old Gen}[]CollectionUsageThreshold: 0
+java.lang{type=MemoryPool, name=PS Old Gen}[]CollectionUsageThresholdCount: 0
+java.lang{type=MemoryPool, name=PS Old Gen}[PeakUsage]committed: 1244659712
+java.lang{type=MemoryPool, name=PS Old Gen}[PeakUsage]init: 716177408
+java.lang{type=MemoryPool, name=PS Old Gen}[PeakUsage]max: 1431830528
+java.lang{type=MemoryPool, name=PS Old Gen}[PeakUsage]used: 178664744
+java.lang{type=MemoryPool, name=PS Old Gen}[Usage]committed: 1244659712
+java.lang{type=MemoryPool, name=PS Old Gen}[Usage]init: 716177408
+java.lang{type=MemoryPool, name=PS Old Gen}[Usage]max: 1431830528
+java.lang{type=MemoryPool, name=PS Old Gen}[Usage]used: 178664744
+java.lang{type=MemoryPool, name=PS Old Gen}[]UsageThreshold: 0
+java.lang{type=MemoryPool, name=PS Old Gen}[]UsageThresholdCount: 0
+java.lang{type=MemoryPool, name=PS Old Gen}[]CollectionUsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=PS Old Gen}[]CollectionUsageThresholdSupported: true
+java.lang{type=MemoryPool, name=PS Old Gen}[]UsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=PS Old Gen}[]UsageThresholdSupported: true
+java.lang{type=MemoryPool, name=PS Old Gen}[]Valid: true
+Catalina{type=Valve, name=StandardEngineValve}[]modelerType: org.apache.catalina.core.StandardEngineValve
+Catalina{type=Valve, name=StandardEngineValve}[]stateName: STARTED
+Catalina{type=Valve, name=StandardEngineValve}[]asyncSupported: true
+Catalina{type=Valve, name=StandardEngineValve}[]className: org.apache.catalina.core.StandardEngineValve
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]requestCount: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]maxTime: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]bytesReceived: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]modelerType: org.apache.coyote.RequestGroupInfo
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]bytesSent: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]processingTime: 0
+Catalina{type=GlobalRequestProcessor, name="http-nio-9443"}[]errorCount: 0
+org.wso2.carbon.metrics{name=jvm.class-loading.unloaded.total}[]Value: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]Name: TENANT_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=TENANT_CACHE_MANAGER, name=TENANT_CACHE}[]CacheMissPercentage: 0.0
+org.wso2.carbon.metrics{name=jvm.os.cpu.load.system}[]Value: 0.5147610197903391
+Catalina{j2eeType=Filter, name=CharsetFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.ApplicationFilterConfig
+Catalina{j2eeType=Filter, name=CharsetFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterClass: org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter
+Catalina{j2eeType=Filter, name=CharsetFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterName: CharsetFilter
+Key : requestEncoding Value : UTF-8
+org.wso2.carbon.metrics{name=jvm.os.swap.space.free.size}[]Value: 10077605888
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]Max: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]Min: 0.31754
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]75thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]95thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]98thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]99thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]999thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]50thPercentile: 1.404312
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]StdDev: 0.5433859999999999
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]Mean: 0.860926
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]DurationUnit: milliseconds
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]Count: 2
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]FiveMinuteRate: 0.020589842680680325
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]FifteenMinuteRate: 0.1487959133861486
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]OneMinuteRate: 1.4455235665783962E-7
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]MeanRate: 0.0022304662930021962
+org.wso2.carbon.metrics{name=org.wso2.mb.store.nextMessageIDsFromQueue.get}[]RateUnit: events/second
+org.wso2.carbon{type=ServerAdmin}[]Alive: true
+org.wso2.carbon{type=ServerAdmin}[]ServerDataAsString: JVM Name='Java(TM) SE Runtime Environment', JVM Version='25.144-b01', JVM Vendor='Oracle Corporation', Java Home='C:\Program Files\Java\jdk1.8.0_144\jre', OS Name='Windows 10', OS Version='10.0', user.home='C:\Users\monyo', user.timezone='Africa/Harare', username='Monyo', user.country='US', Axis2 Location='C:\Programs\wso2mb-3.1.0\repository\components\plugins\axis2_1.6.1.wso2v16.jar', Server Name='WSO2', Repository Location='file:/C:/Programs/WSO2MB~1.0/bin/../repository/deployment/server/', WSO2 Message Broker version ='3.1.0'
+org.wso2.carbon{type=ServerAdmin}[]ServerVersion: 3.1.0
+org.wso2.carbon{type=ServerAdmin}[]ServerStatus: RUNNING
+org.wso2.carbon.metrics{name=jvm.os.virtual.memory.committed.size}[]Value: 2238320640
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]StatisticsEnabled: false
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]PeakDataReceiptRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]DataReceiptRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]TotalDataReceived: 0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]TotalDataDelivered: 0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]PeakDataDeliveryRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]TotalMessagesDelivered: 0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]MessageReceiptRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]TotalMessagesReceived: 0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]PeakMessageReceiptRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]PeakMessageDeliveryRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]DataDeliveryRate: 0.0
+org.wso2.andes{type=VirtualHost.VirtualHostManager, VirtualHost="carbon"}[]MessageDeliveryRate: 0.0
+org.wso2.carbon.metrics{name=jvm.memory.non-heap.usage}[]Value: -9.842496E7
+Catalina{type=Server}[]modelerType: org.apache.catalina.core.StandardServer
+Catalina{type=Server}[]address: localhost
+Catalina{type=Server}[]serverInfo: Apache Tomcat/7.0.59
+Catalina{type=Server}[]port: 8005
+Catalina{type=Server}[]stateName: STARTED
+Catalina{type=Server}[]shutdown: SHUTDOWN
+Catalina{type=Valve, context=/, host=localhost, name=StandardContextValve}[]modelerType: org.apache.catalina.core.StandardContextValve
+Catalina{type=Valve, context=/, host=localhost, name=StandardContextValve}[]stateName: STARTED
+Catalina{type=Valve, context=/, host=localhost, name=StandardContextValve}[]asyncSupported: true
+Catalina{type=Valve, context=/, host=localhost, name=StandardContextValve}[]className: org.apache.catalina.core.StandardContextValve
+org.wso2.carbon.metrics{name=jvm.class-loading.loaded.total}[]Value: 10397
+org.wso2.carbon.metrics{name=jvm.memory.heap.committed}[]Value: 1829240832
+org.wso2.carbon.metrics{name=jvm.gc.PS-MarkSweep.count}[]Value: 3
+java.lang{type=OperatingSystem}[]CommittedVirtualMemorySize: 2238320640
+java.lang{type=OperatingSystem}[]FreePhysicalMemorySize: 9508818944
+java.lang{type=OperatingSystem}[]FreeSwapSpaceSize: 10079285248
+java.lang{type=OperatingSystem}[]ProcessCpuLoad: 0.060845252512665544
+java.lang{type=OperatingSystem}[]ProcessCpuTime: 53375000000
+java.lang{type=OperatingSystem}[]SystemCpuLoad: 0.5147610197903391
+java.lang{type=OperatingSystem}[]TotalPhysicalMemorySize: 17035276288
+java.lang{type=OperatingSystem}[]TotalSwapSpaceSize: 19585413120
+java.lang{type=OperatingSystem}[]Name: Windows 10
+java.lang{type=OperatingSystem}[]Arch: amd64
+java.lang{type=OperatingSystem}[]SystemLoadAverage: -1.0
+java.lang{type=OperatingSystem}[]Version: 10.0
+java.lang{type=OperatingSystem}[]AvailableProcessors: 4
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]Name: $__local__$.REG_PATH_CACHE
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]Status: STARTED
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]AverageRemoveMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]AveragePutMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheEvictions: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]AverageGetMillis: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheRemovals: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheMisses: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheGets: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CachePuts: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheHits: 0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheHitPercentage: 0.0
+org.wso2.carbon{type=Cache, tenant=carbon.super, manager=registryCacheManager, name=$__local__$.REG_PATH_CACHE}[]CacheMissPercentage: 0.0
+org.wso2.carbon.metrics{name=org.wso2.mb.inbound.disruptor.message.count}[]Value: 0
+Catalina{type=Service}[]modelerType: org.wso2.carbon.tomcat.ext.service.ExtendedStandardService
+Catalina{type=Service}[]stateName: STARTED
+Catalina{type=Service}[]domain: Catalina
+Catalina{type=Service}[]name: Catalina
+Catalina{type=Service}[]objectName: Catalina:type=Service
+Catalina{type=Service}[]objectNameKeyProperties: type=Service
+Catalina{type=Service}[]info: org.apache.catalina.core.StandardService/1.0
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]cache: true
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]modelerType: org.apache.catalina.authenticator.NonLoginAuthenticator
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]changeSessionIdOnAuthentication: true
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]disableProxyCaching: true
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]stateName: STARTED
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]className: org.apache.catalina.authenticator.NonLoginAuthenticator
+Catalina{type=Valve, context=/, host=localhost, name=NonLoginAuthenticator}[]securePagesWithPragma: false
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]modelerType: org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]stateName: STARTED
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]domain: Catalina
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]asyncSupported: true
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]objectName: Catalina:type=Valve,host=localhost,name=CarbonContextCreatorValve
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]objectNameKeyProperties: type=Valve,host=localhost,name=CarbonContextCreatorValve
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]info: org.apache.catalina.core.ValveBase/1.0
+Catalina{type=Valve, host=localhost, name=CarbonContextCreatorValve}[]domainInternal: Catalina
+WSO2_METRICS_DB,-1234{type=DataSource}[]Size: 1
+WSO2_METRICS_DB,-1234{type=DataSource}[]NumIdle: 1
+WSO2_METRICS_DB,-1234{type=DataSource}[]NumActive: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]Active: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]WaitCount: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]Idle: 1
+WSO2_METRICS_DB,-1234{type=DataSource}[]Name: Tomcat Connection Pool[3-856832055]
+WSO2_METRICS_DB,-1234{type=DataSource}[]Password: Password not available as DataSource/JMX operation.
+WSO2_METRICS_DB,-1234{type=DataSource}[]Url: jdbc:h2:repository/database/WSO2METRICS_DB;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+WSO2_METRICS_DB,-1234{type=DataSource}[]Username: wso2carbon
+WSO2_METRICS_DB,-1234{type=DataSource}[]MaxIdle: 8
+WSO2_METRICS_DB,-1234{type=DataSource}[]TestOnBorrow: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]MaxActive: 50
+WSO2_METRICS_DB,-1234{type=DataSource}[]MaxWait: 60000
+WSO2_METRICS_DB,-1234{type=DataSource}[]MinIdle: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]TestOnReturn: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]TestWhileIdle: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]JdbcInterceptors: ConnectionState;StatementFinalizer;org.wso2.carbon.ndatasource.rdbms.ConnectionRollbackOnReturnInterceptor;
+WSO2_METRICS_DB,-1234{type=DataSource}[]ValidationQuery: SELECT 1
+WSO2_METRICS_DB,-1234{type=DataSource}[]DriverClassName: org.h2.Driver
+WSO2_METRICS_DB,-1234{type=DataSource}[]RemoveAbandoned: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]RemoveAbandonedTimeout: 60
+WSO2_METRICS_DB,-1234{type=DataSource}[]DefaultTransactionIsolation: -1
+WSO2_METRICS_DB,-1234{type=DataSource}[]DefaultAutoCommit: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]PoolSweeperEnabled: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]CommitOnReturn: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]ValidationInterval: 30000
+WSO2_METRICS_DB,-1234{type=DataSource}[]AbandonWhenPercentageFull: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]ValidationQueryTimeout: -1
+WSO2_METRICS_DB,-1234{type=DataSource}[]SuspectTimeout: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]AlternateUsernameAllowed: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]PropagateInterruptState: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]RollbackOnReturn: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]LogValidationErrors: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]UseDisposableConnectionFacade: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]IgnoreExceptionOnPreLoad: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]JmxEnabled: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]MaxAge: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]InitialSize: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]UseEquals: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]FairQueue: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]LogAbandoned: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]UseLock: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]PoolName: Tomcat Connection Pool[3-856832055]
+WSO2_METRICS_DB,-1234{type=DataSource}[]TestOnConnect: false
+WSO2_METRICS_DB,-1234{type=DataSource}[]AccessToUnderlyingConnectionAllowed: true
+WSO2_METRICS_DB,-1234{type=DataSource}[]NumTestsPerEvictionRun: 0
+WSO2_METRICS_DB,-1234{type=DataSource}[]TimeBetweenEvictionRunsMillis: 5000
+WSO2_METRICS_DB,-1234{type=DataSource}[]MinEvictableIdleTimeMillis: 60000
+org.wso2.carbon.metrics{name=jvm.memory.heap.init}[]Value: 1073741824
+org.wso2.carbon.metrics{name=jvm.gc.PS-Scavenge.count}[]Value: 11
+java.lang{type=MemoryPool, name=Code Cache}[]Name: Code Cache
+java.lang{type=MemoryPool, name=Code Cache}[]Type: NON_HEAP
+java.lang{type=MemoryPool, name=Code Cache}[PeakUsage]committed: 28114944
+java.lang{type=MemoryPool, name=Code Cache}[PeakUsage]init: 2555904
+java.lang{type=MemoryPool, name=Code Cache}[PeakUsage]max: 251658240
+java.lang{type=MemoryPool, name=Code Cache}[PeakUsage]used: 27915456
+java.lang{type=MemoryPool, name=Code Cache}[Usage]committed: 28114944
+java.lang{type=MemoryPool, name=Code Cache}[Usage]init: 2555904
+java.lang{type=MemoryPool, name=Code Cache}[Usage]max: 251658240
+java.lang{type=MemoryPool, name=Code Cache}[Usage]used: 27907136
+java.lang{type=MemoryPool, name=Code Cache}[]UsageThreshold: 0
+java.lang{type=MemoryPool, name=Code Cache}[]UsageThresholdCount: 0
+java.lang{type=MemoryPool, name=Code Cache}[]CollectionUsageThresholdSupported: false
+java.lang{type=MemoryPool, name=Code Cache}[]UsageThresholdExceeded: false
+java.lang{type=MemoryPool, name=Code Cache}[]UsageThresholdSupported: true
+java.lang{type=MemoryPool, name=Code Cache}[]Valid: true
+Catalina{j2eeType=Filter, name=CSRFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.ApplicationFilterConfig
+Catalina{j2eeType=Filter, name=CSRFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterClass: org.wso2.carbon.ui.filters.CSRFPreventionFilter
+Catalina{j2eeType=Filter, name=CSRFPreventionFilter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterName: CSRFPreventionFilter
+Catalina{j2eeType=Filter, name=Tomcat WebSocket (JSR356) Filter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]modelerType: org.apache.catalina.core.ApplicationFilterConfig
+Catalina{j2eeType=Filter, name=Tomcat WebSocket (JSR356) Filter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterClass: org.apache.tomcat.websocket.server.WsFilter
+Catalina{j2eeType=Filter, name=Tomcat WebSocket (JSR356) Filter, WebModule=//localhost/, J2EEApplication=none, J2EEServer=none}[]filterName: Tomcat WebSocket (JSR356) Filter
+Catalina{type=ThreadPool, name="http-nio-9443"}[]currentThreadsBusy: 0
+Catalina{type=ThreadPool, name="http-nio-9443"}[]selectorTimeout: 1000
+Catalina{type=ThreadPool, name="http-nio-9443"}[]paused: false
+Catalina{type=ThreadPool, name="http-nio-9443"}[]useCometTimeout: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]currentThreadCount: 0
+Catalina{type=ThreadPool, name="http-nio-9443"}[]usePolling: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]keystorePass: wso2carbon
+Catalina{type=ThreadPool, name="http-nio-9443"}[]maxThreads: 250
+Catalina{type=ThreadPool, name="http-nio-9443"}[]tcpNoDelay: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]algorithm: SunX509
+Catalina{type=ThreadPool, name="http-nio-9443"}[]maxKeepAliveRequests: 200
+Catalina{type=ThreadPool, name="http-nio-9443"}[]keepAliveTimeout: 60000
+Catalina{type=ThreadPool, name="http-nio-9443"}[]localPort: 9443
+Catalina{type=ThreadPool, name="http-nio-9443"}[]pollerThreadCount: 2
+Catalina{type=ThreadPool, name="http-nio-9443"}[]acceptorThreadCount: 2
+Catalina{type=ThreadPool, name="http-nio-9443"}[]soTimeout: 60000
+Catalina{type=ThreadPool, name="http-nio-9443"}[]daemon: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]minSpareThreads: 50
+Catalina{type=ThreadPool, name="http-nio-9443"}[]acceptorThreadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9443"}[]backlog: 200
+Catalina{type=ThreadPool, name="http-nio-9443"}[]maxHeaderCount: 100
+Catalina{type=ThreadPool, name="http-nio-9443"}[]port: 9443
+Catalina{type=ThreadPool, name="http-nio-9443"}[]keystoreType: JKS
+Catalina{type=ThreadPool, name="http-nio-9443"}[]name: http-nio-9443
+Catalina{type=ThreadPool, name="http-nio-9443"}[]soLinger: -1
+Catalina{type=ThreadPool, name="http-nio-9443"}[]sslProtocol: TLS
+Catalina{type=ThreadPool, name="http-nio-9443"}[]sessionTimeout: 86400
+Catalina{type=ThreadPool, name="http-nio-9443"}[]useComet: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]clientAuth: false
+Catalina{type=ThreadPool, name="http-nio-9443"}[]modelerType: org.apache.tomcat.util.net.NioEndpoint
+Catalina{type=ThreadPool, name="http-nio-9443"}[]connectionCount: 2
+Catalina{type=ThreadPool, name="http-nio-9443"}[]threadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9443"}[]executorTerminationTimeoutMillis: 5000
+Catalina{type=ThreadPool, name="http-nio-9443"}[]running: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]sSLEnabled: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]maxConnections: 10000
+Catalina{type=ThreadPool, name="http-nio-9443"}[]keepAliveCount: 0
+Catalina{type=ThreadPool, name="http-nio-9443"}[]deferAccept: false
+Catalina{type=ThreadPool, name="http-nio-9443"}[]useSendfile: true
+Catalina{type=ThreadPool, name="http-nio-9443"}[]oomParachute: 1048576
+Catalina{type=ThreadPool, name="http-nio-9443"}[]bindOnInit: false
+Catalina{type=ThreadPool, name="http-nio-9443"}[]pollerThreadPriority: 5
+Catalina{type=ThreadPool, name="http-nio-9443"}[]keystoreFile: C:\Programs\WSO2MB~1.0\bin\../repository/resources/security/wso2carbon.jks
+org.wso2.carbon.metrics{name=jvm.memory.total.used}[]Value: 461876208
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]Name: DeadLetterChannel
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]Owner: admin
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]Capacity: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]Durable: true
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]MessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]QueueDepth: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]FlowOverfull: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]MaximumMessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]FlowResumeCapacity: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]MaximumQueueDepth: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]MaximumMessageAge: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]MaximumMessageSize: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]ActiveConsumerCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]ReceivedMessageCount: 0
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]Exclusive: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]AutoDelete: false
+org.wso2.andes{type=VirtualHost.Queue, VirtualHost="carbon", name="DeadLetterChannel"}[]ConsumerCount: 0
+org.wso2.carbon{type=StatisticsAdmin}[]SystemRequestCount: 0
+org.wso2.carbon{type=StatisticsAdmin}[]SystemFaultCount: 0
+org.wso2.carbon{type=StatisticsAdmin}[]SystemResponseCount: 0
+org.wso2.carbon{type=StatisticsAdmin}[]MinSystemResponseTime: -1
+org.wso2.carbon{type=StatisticsAdmin}[]MaxSystemResponseTime: 0
+org.wso2.carbon{type=StatisticsAdmin}[]AvgSystemResponseTime: 0.0
