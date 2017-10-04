@@ -306,12 +306,13 @@ public class JmxScraper {
 //                for(String key : attrKeys){
 //                    logger.info(key);
 //                }
-                
+                beanProperties.put("keyName", entry.getKey().toString());
                 this.receiver.recordBean(
                         domain,
                         beanProperties,
                         attrKeys,
-                        attrName + "_" + entry.getKey(),
+                        //attrName + "_" + entry.getKey(),
+                        attrName,
                         attrType,
                         attrDescription,
                         entry.getValue());
